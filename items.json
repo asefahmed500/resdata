@@ -1,224 +1,465 @@
 {
-  "items": [
-    {
-      "id": 1,
-      "name": "Classic Pancakes",
-      "fullDescription": "Our signature fluffy pancakes made from scratch with premium ingredients. Each pancake is carefully crafted to achieve the perfect texture - light, airy, and incredibly satisfying. Served with real maple syrup, fresh butter, and a side of seasonal berries. These pancakes have been our customers' favorite for over a decade.",
-      "price": 12,
-      "category": "popular",
-      "rating": 4.5,
-      "images": [
-        "/images/pancakes-1.jpg",
-        "/images/pancakes-2.jpg",
-        "/images/pancakes-3.jpg",
-        "/images/pancakes-4.jpg"
-      ],
-      "benefits": [
+  "menu": {
+    "breakfast": {
+      "name": "Breakfast",
+      "items": [
         {
-          "title": "High in Protein",
-          "description": "Our pancake batter includes protein-rich ingredients that help keep you satisfied and energized throughout the morning."
+          "id": 1,
+          "name": "Classic Pancakes",
+          "description": "Fluffy pancakes served with maple syrup and butter",
+          "fullDescription": "Our signature pancakes are made with a secret blend of flour and buttermilk, creating the fluffiest texture you've ever experienced. Served with real Vermont maple syrup, fresh butter, and a dusting of powdered sugar. Each stack comes with three generous pancakes that are golden brown and perfectly cooked.",
+          "price": 12,
+          "category": "popular",
+          "image": "pancakes.jpg",
+          "images": [
+            "/images/pancakes.jpg",
+            "/images/pancakes-2.jpg",
+            "/images/pancakes-3.jpg",
+            "/images/pancakes-4.jpg"
+          ],
+          "rating": 4.5,
+          "benefits": [
+            {
+              "title": "Quick Energy Boost",
+              "description": "Complex carbohydrates provide sustained energy for your morning activities"
+            },
+            {
+              "title": "Comfort Food Benefits",
+              "description": "The familiar taste and texture can improve mood and provide psychological comfort"
+            },
+            {
+              "title": "Customizable Nutrition",
+              "description": "Can be paired with fruits, nuts, or protein to create a more balanced meal"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Sarah Johnson",
+              "rating": 5,
+              "comment": "Absolutely the best pancakes I've ever had! Fluffy, delicious, and the maple syrup is real quality.",
+              "date": "2024-01-15",
+              "images": ["/images/review-pancakes-1.jpg", "/images/review-pancakes-2.jpg"]
+            },
+            {
+              "customerName": "Mike Chen",
+              "rating": 4,
+              "comment": "Great texture and taste. Portion size is generous. Will definitely come back!",
+              "date": "2024-01-12",
+              "images": []
+            }
+          ]
         },
         {
-          "title": "Good Source of Fiber",
-          "description": "Made with whole grain flour that provides essential fiber for healthy digestion and sustained energy release."
+          "id": 2,
+          "name": "Avocado Toast",
+          "description": "Smashed avocado on sourdough with poached egg",
+          "fullDescription": "Fresh, ripe avocados are smashed to perfection and seasoned with lime juice, sea salt, and cracked black pepper. Served on our house-made sourdough bread, toasted to golden perfection. Topped with a perfectly poached egg with a runny yolk that creates a creamy sauce when broken.",
+          "price": 15,
+          "category": "popular",
+          "image": "avocado_toast.jpg",
+          "images": [
+            "/images/avocado_toast.jpg",
+            "/images/avocado_toast-2.jpg",
+            "/images/avocado_toast-3.jpg",
+            "/images/avocado_toast-4.jpg"
+          ],
+          "rating": 4.7,
+          "benefits": [
+            {
+              "title": "Heart-Healthy Fats",
+              "description": "Avocados are rich in monounsaturated fats that support cardiovascular health"
+            },
+            {
+              "title": "High in Fiber",
+              "description": "Promotes digestive health and helps maintain steady blood sugar levels"
+            },
+            {
+              "title": "Complete Protein",
+              "description": "The poached egg provides all essential amino acids for muscle maintenance"
+            },
+            {
+              "title": "Nutrient Dense",
+              "description": "Packed with vitamins K, E, C, and various B vitamins plus potassium"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Emma Wilson",
+              "rating": 5,
+              "comment": "Perfect combination of flavors! The sourdough is amazing and the avocado is always perfectly ripe.",
+              "date": "2024-01-18",
+              "images": ["/images/review-avocado-1.jpg"]
+            },
+            {
+              "customerName": "David Brown",
+              "rating": 4,
+              "comment": "Healthy and delicious. Great presentation too!",
+              "date": "2024-01-16",
+              "images": []
+            }
+          ]
         },
         {
-          "title": "Rich in Vitamins & Minerals",
-          "description": "Fortified with essential B vitamins and minerals that support brain function and overall health."
-        },
-        {
-          "title": "Natural Ingredients",
-          "description": "Made with farm-fresh eggs, organic flour, and natural maple syrup - no artificial preservatives or flavors."
-        }
-      ],
-      "reviews": [
-        {
-          "customerName": "Sarah Johnson",
-          "rating": 5,
-          "date": "2024-01-15",
-          "comment": "Absolutely delicious! The pancakes were fluffy and the maple syrup was amazing. Will definitely come back for more.",
-          "images": ["/images/review-pancakes-1.jpg"]
-        },
-        {
-          "customerName": "Mike Chen",
-          "rating": 4,
-          "date": "2024-01-12",
-          "comment": "Great taste and portion size. The berries were fresh and added a nice touch to the dish.",
-          "images": []
-        },
-        {
-          "customerName": "Emma Davis",
-          "rating": 5,
-          "date": "2024-01-10",
-          "comment": "Perfect breakfast! The pancakes were cooked to perfection and the service was excellent.",
-          "images": ["/images/review-pancakes-2.jpg", "/images/review-pancakes-3.jpg"]
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "name": "Caesar Salad",
-      "fullDescription": "A classic Caesar salad made with crisp romaine lettuce, house-made croutons, fresh parmesan cheese, and our signature Caesar dressing. Our dressing is prepared daily using traditional methods with anchovies, garlic, lemon juice, and premium olive oil. Topped with grilled chicken breast for added protein.",
-      "price": 25,
-      "category": "popular",
-      "rating": 4.8,
-      "images": [
-        "/images/caesar-salad-1.jpg",
-        "/images/caesar-salad-2.jpg",
-        "/images/caesar-salad-3.jpg",
-        "/images/caesar-salad-4.jpg"
-      ],
-      "benefits": [
-        {
-          "title": "Rich in Antioxidants",
-          "description": "Romaine lettuce provides vitamins A and C, which act as powerful antioxidants protecting your cells from damage."
-        },
-        {
-          "title": "High Quality Protein",
-          "description": "Grilled chicken breast provides lean protein essential for muscle maintenance and growth."
-        },
-        {
-          "title": "Heart-Healthy Fats",
-          "description": "Our olive oil-based dressing contains monounsaturated fats that support cardiovascular health."
-        },
-        {
-          "title": "Bone Health Support",
-          "description": "Rich in calcium from parmesan cheese and vitamin K from lettuce, supporting strong bones."
-        }
-      ],
-      "reviews": [
-        {
-          "customerName": "David Wilson",
-          "rating": 5,
-          "date": "2024-01-18",
-          "comment": "Best Caesar salad I've ever had! The dressing is incredible and the chicken was perfectly grilled.",
-          "images": ["/images/review-caesar-1.jpg"]
-        },
-        {
-          "customerName": "Lisa Brown",
-          "rating": 5,
-          "date": "2024-01-16",
-          "comment": "Fresh, crispy, and delicious. The homemade croutons are a nice touch!",
-          "images": []
-        },
-        {
-          "customerName": "James Miller",
-          "rating": 4,
-          "date": "2024-01-14",
-          "comment": "Great salad with generous portions. The dressing has the perfect balance of flavors.",
-          "images": ["/images/review-caesar-2.jpg"]
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "name": "Ribeye Steak",
-      "fullDescription": "Premium USDA Choice ribeye steak, aged for 28 days for maximum tenderness and flavor. Grilled to your preference and served with our signature garlic mashed potatoes and seasonal vegetables. This 12oz cut is marbled with just the right amount of fat for incredible juiciness and taste. Finished with herb butter and served on a sizzling plate.",
-      "price": 42,
-      "category": "popular",
-      "rating": 4.9,
-      "images": [
-        "/images/ribeye-steak-1.jpg",
-        "/images/ribeye-steak-2.jpg",
-        "/images/ribeye-steak-3.jpg",
-        "/images/ribeye-steak-4.jpg"
-      ],
-      "benefits": [
-        {
-          "title": "Complete Protein Source",
-          "description": "Provides all essential amino acids needed for muscle building, repair, and overall body function."
-        },
-        {
-          "title": "Rich in Iron",
-          "description": "Excellent source of heme iron, which is easily absorbed by the body and helps prevent anemia."
-        },
-        {
-          "title": "B-Vitamin Complex",
-          "description": "High in B12, B6, and niacin, supporting nervous system health and energy metabolism."
-        },
-        {
-          "title": "Zinc & Selenium",
-          "description": "Contains important minerals that support immune function and wound healing."
-        }
-      ],
-      "reviews": [
-        {
-          "customerName": "Robert Taylor",
-          "rating": 5,
-          "date": "2024-01-20",
-          "comment": "Outstanding steak! Cooked to perfection and incredibly tender. The mashed potatoes were creamy and delicious.",
-          "images": ["/images/review-ribeye-1.jpg", "/images/review-ribeye-2.jpg"]
-        },
-        {
-          "customerName": "Jennifer Lee",
-          "rating": 5,
-          "date": "2024-01-17",
-          "comment": "Best steak in town! The quality is exceptional and the presentation was beautiful.",
-          "images": ["/images/review-ribeye-3.jpg"]
-        },
-        {
-          "customerName": "Mark Anderson",
-          "rating": 4,
-          "date": "2024-01-15",
-          "comment": "Great steak with excellent flavor. The vegetables were fresh and perfectly seasoned.",
-          "images": []
+          "id": 3,
+          "name": "French Toast",
+          "description": "Golden brioche French toast with berry compote",
+          "fullDescription": "Thick slices of buttery brioche bread are soaked in our signature custard mixture made with farm-fresh eggs, cream, vanilla, and a hint of cinnamon. Cooked to golden perfection and served with our house-made mixed berry compote and a dollop of whipped cream.",
+          "price": 14,
+          "category": "featured",
+          "image": "french_toast.jpg",
+          "images": [
+            "/images/french_toast.jpg",
+            "/images/french_toast-2.jpg",
+            "/images/french_toast-3.jpg",
+            "/images/french_toast-4.jpg"
+          ],
+          "rating": 4.3,
+          "benefits": [
+            {
+              "title": "Antioxidant Rich",
+              "description": "Berry compote provides powerful antioxidants that fight free radicals"
+            },
+            {
+              "title": "Calcium and Protein",
+              "description": "Eggs and cream provide essential nutrients for bone and muscle health"
+            },
+            {
+              "title": "Energy Providing",
+              "description": "Complex carbohydrates from brioche provide sustained energy release"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Lisa Martinez",
+              "rating": 4,
+              "comment": "Delicious French toast! The berry compote is the perfect complement.",
+              "date": "2024-01-14",
+              "images": []
+            }
+          ]
         }
       ]
     },
-    {
-      "id": 37,
-      "name": "Margherita Pizza",
-      "fullDescription": "Traditional Neapolitan-style Margherita pizza made with our house-made dough, San Marzano tomato sauce, fresh mozzarella di bufala, and aromatic basil leaves. Baked in our wood-fired oven at 900°F for that perfect crispy crust and smoky flavor. This classic pizza represents the colors of the Italian flag and embodies the essence of authentic Italian cuisine.",
-      "price": 18,
-      "category": "popular",
-      "rating": 4.6,
-      "images": [
-        "/images/margherita-pizza-1.jpg",
-        "/images/margherita-pizza-2.jpg",
-        "/images/margherita-pizza-3.jpg",
-        "/images/margherita-pizza-4.jpg"
-      ],
-      "benefits": [
+    "lunch": {
+      "name": "Lunch",
+      "items": [
         {
-          "title": "Lycopene from Tomatoes",
-          "description": "Rich in lycopene, a powerful antioxidant that may help protect against heart disease and certain cancers."
-        },
-        {
-          "title": "Calcium from Cheese",
-          "description": "Fresh mozzarella provides calcium essential for strong bones and teeth."
-        },
-        {
-          "title": "Complex Carbohydrates",
-          "description": "Our sourdough crust provides sustained energy and contains beneficial probiotics."
-        },
-        {
-          "title": "Fresh Herbs Benefits",
-          "description": "Basil contains antioxidants and has anti-inflammatory properties that support overall health."
+          "id": 13,
+          "name": "Caesar Salad",
+          "description": "Crisp romaine lettuce with parmesan cheese and croutons",
+          "fullDescription": "Fresh, crispy romaine lettuce hearts tossed in our house-made Caesar dressing, made with anchovies, garlic, lemon juice, and aged parmesan. Topped with our signature herb croutons, shaved parmesan, and a sprinkle of freshly cracked black pepper. Optional grilled chicken or shrimp available.",
+          "price": 25,
+          "category": "popular",
+          "image": "caesar_salad.jpg",
+          "images": [
+            "/images/caesar_salad.jpg",
+            "/images/caesar_salad-2.jpg",
+            "/images/caesar_salad-3.jpg",
+            "/images/caesar_salad-4.jpg"
+          ],
+          "rating": 4.8,
+          "benefits": [
+            {
+              "title": "High in Vitamin K",
+              "description": "Romaine lettuce is an excellent source of vitamin K for bone health"
+            },
+            {
+              "title": "Low in Calories",
+              "description": "A lighter meal option that's still satisfying and nutritious"
+            },
+            {
+              "title": "Calcium Rich",
+              "description": "Parmesan cheese provides calcium for strong bones and teeth"
+            },
+            {
+              "title": "Folate Source",
+              "description": "Romaine lettuce contains folate, important for cell division and DNA synthesis"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "James Rodriguez",
+              "rating": 5,
+              "comment": "Best Caesar salad in town! The dressing is perfectly balanced and the croutons are amazing.",
+              "date": "2024-01-20",
+              "images": ["/images/review-caesar-1.jpg"]
+            },
+            {
+              "customerName": "Anna Taylor",
+              "rating": 5,
+              "comment": "Fresh, crispy, and delicious. The perfect lunch salad!",
+              "date": "2024-01-19",
+              "images": []
+            }
+          ]
         }
-      ],
-      "reviews": [
+      ]
+    },
+    "dinner": {
+      "name": "Dinner",
+      "items": [
         {
-          "customerName": "Maria Rodriguez",
-          "rating": 5,
-          "date": "2024-01-19",
-          "comment": "Authentic Italian taste! The crust was perfectly crispy and the fresh mozzarella was amazing.",
-          "images": ["/images/review-margherita-1.jpg"]
-        },
+          "id": 25,
+          "name": "Ribeye Steak",
+          "description": "Premium ribeye steak with garlic mashed potatoes",
+          "fullDescription": "A perfectly marbled 12oz ribeye steak, aged for 28 days for maximum tenderness and flavor. Grilled to your preference and finished with herb butter. Served with our signature garlic mashed potatoes made with Yukon Gold potatoes, roasted garlic, and cream, alongside seasonal grilled vegetables.",
+          "price": 42,
+          "category": "popular",
+          "image": "ribeye_steak.jpg",
+          "images": [
+            "/images/ribeye_steak.jpg",
+            "/images/ribeye_steak-2.jpg",
+            "/images/ribeye_steak-3.jpg",
+            "/images/ribeye_steak-4.jpg"
+          ],
+          "rating": 4.9,
+          "benefits": [
+            {
+              "title": "High-Quality Protein",
+              "description": "Complete protein containing all essential amino acids for muscle growth and repair"
+            },
+            {
+              "title": "Rich in Iron",
+              "description": "Heme iron from beef is easily absorbed and prevents iron deficiency anemia"
+            },
+            {
+              "title": "B-Vitamin Complex",
+              "description": "Excellent source of B12, B6, and niacin for energy metabolism and nervous system health"
+            },
+            {
+              "title": "Zinc and Selenium",
+              "description": "Important minerals for immune function and antioxidant protection"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Robert Davis",
+              "rating": 5,
+              "comment": "Absolutely perfect steak! Cooked exactly as requested and incredibly tender. The mashed potatoes are heavenly.",
+              "date": "2024-01-22",
+              "images": ["/images/review-ribeye-1.jpg", "/images/review-ribeye-2.jpg"]
+            },
+            {
+              "customerName": "Maria Garcia",
+              "rating": 5,
+              "comment": "Best steak I've had in years! Worth every penny. The seasoning is perfect.",
+              "date": "2024-01-21",
+              "images": []
+            }
+          ]
+        }
+      ]
+    },
+    "pizza": {
+      "name": "Pizza",
+      "items": [
         {
-          "customerName": "Tony Russo",
-          "rating": 5,
-          "date": "2024-01-16",
-          "comment": "Best Margherita pizza outside of Italy! The wood-fired oven makes all the difference.",
-          "images": ["/images/review-margherita-2.jpg", "/images/review-margherita-3.jpg"]
-        },
+          "id": 37,
+          "name": "Margherita Pizza",
+          "description": "Classic pizza with tomato sauce, mozzarella, and basil",
+          "fullDescription": "Our signature Margherita pizza features a hand-stretched dough made from imported Italian flour, topped with San Marzano tomato sauce, fresh mozzarella di bufala, and aromatic fresh basil leaves. Baked in our wood-fired oven at 900°F for that perfect crispy yet chewy crust with beautiful char spots.",
+          "price": 18,
+          "category": "popular",
+          "image": "margherita_pizza.jpg",
+          "images": [
+            "/images/margherita_pizza.jpg",
+            "/images/margherita_pizza-2.jpg",
+            "/images/margherita_pizza-3.jpg",
+            "/images/margherita_pizza-4.jpg"
+          ],
+          "rating": 4.6,
+          "benefits": [
+            {
+              "title": "Lycopene from Tomatoes",
+              "description": "Powerful antioxidant that may help protect against heart disease and cancer"
+            },
+            {
+              "title": "Calcium from Mozzarella",
+              "description": "Essential for bone health and muscle function"
+            },
+            {
+              "title": "Anti-inflammatory Basil",
+              "description": "Contains compounds that may help reduce inflammation in the body"
+            },
+            {
+              "title": "Probiotics",
+              "description": "Fermented dough may provide beneficial bacteria for digestive health"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Tony Ricci",
+              "rating": 5,
+              "comment": "Authentic Italian taste! The crust is perfect and the ingredients are top quality. Reminds me of pizza in Naples!",
+              "date": "2024-01-23",
+              "images": ["/images/review-margherita-1.jpg"]
+            }
+          ]
+        }
+      ]
+    },
+    "burger": {
+      "name": "Burger",
+      "items": [
         {
-          "customerName": "Anna Schmidt",
-          "rating": 4,
-          "date": "2024-01-13",
-          "comment": "Delicious pizza with fresh ingredients. The basil was aromatic and added great flavor.",
-          "images": []
+          "id": 49,
+          "name": "Classic Cheeseburger",
+          "description": "Beef patty with cheese, lettuce, tomato, and pickles",
+          "fullDescription": "Our signature cheeseburger features a hand-formed 6oz patty made from freshly ground chuck beef, grilled to perfection and topped with aged cheddar cheese. Served on a brioche bun with crisp lettuce, ripe tomatoes, red onion, pickles, and our special burger sauce. Comes with hand-cut fries.",
+          "price": 16,
+          "category": "popular",
+          "image": "classic_cheeseburger.jpg",
+          "images": [
+            "/images/classic_cheeseburger.jpg",
+            "/images/classic_cheeseburger-2.jpg",
+            "/images/classic_cheeseburger-3.jpg",
+            "/images/classic_cheeseburger-4.jpg"
+          ],
+          "rating": 4.5,
+          "benefits": [
+            {
+              "title": "High-Quality Protein",
+              "description": "Grass-fed beef provides complete protein for muscle maintenance and growth"
+            },
+            {
+              "title": "B-Vitamins",
+              "description": "Rich in B12, B6, and niacin for energy production and nervous system health"
+            },
+            {
+              "title": "Iron Content",
+              "description": "Heme iron from beef is easily absorbed and prevents anemia"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Steve Johnson",
+              "rating": 4,
+              "comment": "Great classic burger! Cooked perfectly and the fries are amazing. Good portion size.",
+              "date": "2024-01-24",
+              "images": []
+            }
+          ]
+        }
+      ]
+    },
+    "drinks": {
+      "name": "Drinks",
+      "items": [
+        {
+          "id": 61,
+          "name": "Fresh Orange Juice",
+          "description": "Freshly squeezed orange juice",
+          "fullDescription": "Pure, freshly squeezed orange juice made from premium Valencia oranges. No added sugars, preservatives, or artificial flavors. Each glass contains the juice of approximately 4-5 fresh oranges, providing natural sweetness and vibrant citrus flavor. Served chilled over ice.",
+          "price": 6,
+          "category": "popular",
+          "image": "orange_juice.jpg",
+          "images": [
+            "/images/orange_juice.jpg",
+            "/images/orange_juice-2.jpg",
+            "/images/orange_juice-3.jpg",
+            "/images/orange_juice-4.jpg"
+          ],
+          "rating": 4.5,
+          "benefits": [
+            {
+              "title": "High Vitamin C",
+              "description": "Boosts immune system and helps with iron absorption and collagen production"
+            },
+            {
+              "title": "Folate Source",
+              "description": "Important for cell division and DNA synthesis, especially crucial for pregnant women"
+            },
+            {
+              "title": "Potassium Rich",
+              "description": "Supports heart health and helps regulate blood pressure"
+            },
+            {
+              "title": "Natural Antioxidants",
+              "description": "Flavonoids and carotenoids help protect against oxidative stress"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Jennifer Lee",
+              "rating": 5,
+              "comment": "The freshest orange juice I've ever tasted! You can really taste the difference from store-bought.",
+              "date": "2024-01-25",
+              "images": []
+            }
+          ]
+        }
+      ]
+    },
+    "dessert": {
+      "name": "Dessert",
+      "items": [
+        {
+          "id": 73,
+          "name": "Chocolate Cake",
+          "description": "Rich chocolate cake with chocolate frosting",
+          "fullDescription": "Decadent three-layer chocolate cake made with premium Belgian cocoa and dark chocolate. Each layer is moist and rich, filled with silky chocolate ganache and covered in our signature chocolate buttercream frosting. Garnished with chocolate shavings and served with a scoop of vanilla ice cream.",
+          "price": 9,
+          "category": "popular",
+          "image": "chocolate_cake.jpg",
+          "images": [
+            "/images/chocolate_cake.jpg",
+            "/images/chocolate_cake-2.jpg",
+            "/images/chocolate_cake-3.jpg",
+            "/images/chocolate_cake-4.jpg"
+          ],
+          "rating": 4.8,
+          "benefits": [
+            {
+              "title": "Mood Enhancement",
+              "description": "Dark chocolate contains compounds that may help improve mood and reduce stress"
+            },
+            {
+              "title": "Antioxidants",
+              "description": "Cocoa is rich in flavonoids that have antioxidant properties"
+            },
+            {
+              "title": "Energy Boost",
+              "description": "Natural sugars provide quick energy, while the richness ensures satisfaction in smaller portions"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Sarah Kim",
+              "rating": 5,
+              "comment": "Absolutely divine! Rich, moist, and not too sweet. Perfect way to end a meal.",
+              "date": "2024-01-26",
+              "images": ["/images/review-chocolate-cake-1.jpg"]
+            }
+          ]
         }
       ]
     }
+  },
+  "categories": {
+    "popular": {
+      "name": "Popular Items",
+      "description": "Customer favorites and best sellers"
+    },
+    "featured": {
+      "name": "Featured Items", 
+      "description": "Chef's special recommendations"
+    },
+    "regular": {
+      "name": "Regular Items",
+      "description": "Standard menu offerings"
+    },
+    "healthy": {
+      "name": "Healthy Options",
+      "description": "Nutritious and lighter choices"
+    }
+  },
+  "menu_types": [
+    "breakfast",
+    "lunch", 
+    "dinner",
+    "pizza",
+    "burger",
+    "drinks",
+    "dessert"
   ]
 }
