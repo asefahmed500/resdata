@@ -1,0 +1,224 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Classic Pancakes",
+      "fullDescription": "Our signature fluffy pancakes made from scratch with premium ingredients. Each pancake is carefully crafted to achieve the perfect texture - light, airy, and incredibly satisfying. Served with real maple syrup, fresh butter, and a side of seasonal berries. These pancakes have been our customers' favorite for over a decade.",
+      "price": 12,
+      "category": "popular",
+      "rating": 4.5,
+      "images": [
+        "/images/pancakes-1.jpg",
+        "/images/pancakes-2.jpg",
+        "/images/pancakes-3.jpg",
+        "/images/pancakes-4.jpg"
+      ],
+      "benefits": [
+        {
+          "title": "High in Protein",
+          "description": "Our pancake batter includes protein-rich ingredients that help keep you satisfied and energized throughout the morning."
+        },
+        {
+          "title": "Good Source of Fiber",
+          "description": "Made with whole grain flour that provides essential fiber for healthy digestion and sustained energy release."
+        },
+        {
+          "title": "Rich in Vitamins & Minerals",
+          "description": "Fortified with essential B vitamins and minerals that support brain function and overall health."
+        },
+        {
+          "title": "Natural Ingredients",
+          "description": "Made with farm-fresh eggs, organic flour, and natural maple syrup - no artificial preservatives or flavors."
+        }
+      ],
+      "reviews": [
+        {
+          "customerName": "Sarah Johnson",
+          "rating": 5,
+          "date": "2024-01-15",
+          "comment": "Absolutely delicious! The pancakes were fluffy and the maple syrup was amazing. Will definitely come back for more.",
+          "images": ["/images/review-pancakes-1.jpg"]
+        },
+        {
+          "customerName": "Mike Chen",
+          "rating": 4,
+          "date": "2024-01-12",
+          "comment": "Great taste and portion size. The berries were fresh and added a nice touch to the dish.",
+          "images": []
+        },
+        {
+          "customerName": "Emma Davis",
+          "rating": 5,
+          "date": "2024-01-10",
+          "comment": "Perfect breakfast! The pancakes were cooked to perfection and the service was excellent.",
+          "images": ["/images/review-pancakes-2.jpg", "/images/review-pancakes-3.jpg"]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Caesar Salad",
+      "fullDescription": "A classic Caesar salad made with crisp romaine lettuce, house-made croutons, fresh parmesan cheese, and our signature Caesar dressing. Our dressing is prepared daily using traditional methods with anchovies, garlic, lemon juice, and premium olive oil. Topped with grilled chicken breast for added protein.",
+      "price": 25,
+      "category": "popular",
+      "rating": 4.8,
+      "images": [
+        "/images/caesar-salad-1.jpg",
+        "/images/caesar-salad-2.jpg",
+        "/images/caesar-salad-3.jpg",
+        "/images/caesar-salad-4.jpg"
+      ],
+      "benefits": [
+        {
+          "title": "Rich in Antioxidants",
+          "description": "Romaine lettuce provides vitamins A and C, which act as powerful antioxidants protecting your cells from damage."
+        },
+        {
+          "title": "High Quality Protein",
+          "description": "Grilled chicken breast provides lean protein essential for muscle maintenance and growth."
+        },
+        {
+          "title": "Heart-Healthy Fats",
+          "description": "Our olive oil-based dressing contains monounsaturated fats that support cardiovascular health."
+        },
+        {
+          "title": "Bone Health Support",
+          "description": "Rich in calcium from parmesan cheese and vitamin K from lettuce, supporting strong bones."
+        }
+      ],
+      "reviews": [
+        {
+          "customerName": "David Wilson",
+          "rating": 5,
+          "date": "2024-01-18",
+          "comment": "Best Caesar salad I've ever had! The dressing is incredible and the chicken was perfectly grilled.",
+          "images": ["/images/review-caesar-1.jpg"]
+        },
+        {
+          "customerName": "Lisa Brown",
+          "rating": 5,
+          "date": "2024-01-16",
+          "comment": "Fresh, crispy, and delicious. The homemade croutons are a nice touch!",
+          "images": []
+        },
+        {
+          "customerName": "James Miller",
+          "rating": 4,
+          "date": "2024-01-14",
+          "comment": "Great salad with generous portions. The dressing has the perfect balance of flavors.",
+          "images": ["/images/review-caesar-2.jpg"]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Ribeye Steak",
+      "fullDescription": "Premium USDA Choice ribeye steak, aged for 28 days for maximum tenderness and flavor. Grilled to your preference and served with our signature garlic mashed potatoes and seasonal vegetables. This 12oz cut is marbled with just the right amount of fat for incredible juiciness and taste. Finished with herb butter and served on a sizzling plate.",
+      "price": 42,
+      "category": "popular",
+      "rating": 4.9,
+      "images": [
+        "/images/ribeye-steak-1.jpg",
+        "/images/ribeye-steak-2.jpg",
+        "/images/ribeye-steak-3.jpg",
+        "/images/ribeye-steak-4.jpg"
+      ],
+      "benefits": [
+        {
+          "title": "Complete Protein Source",
+          "description": "Provides all essential amino acids needed for muscle building, repair, and overall body function."
+        },
+        {
+          "title": "Rich in Iron",
+          "description": "Excellent source of heme iron, which is easily absorbed by the body and helps prevent anemia."
+        },
+        {
+          "title": "B-Vitamin Complex",
+          "description": "High in B12, B6, and niacin, supporting nervous system health and energy metabolism."
+        },
+        {
+          "title": "Zinc & Selenium",
+          "description": "Contains important minerals that support immune function and wound healing."
+        }
+      ],
+      "reviews": [
+        {
+          "customerName": "Robert Taylor",
+          "rating": 5,
+          "date": "2024-01-20",
+          "comment": "Outstanding steak! Cooked to perfection and incredibly tender. The mashed potatoes were creamy and delicious.",
+          "images": ["/images/review-ribeye-1.jpg", "/images/review-ribeye-2.jpg"]
+        },
+        {
+          "customerName": "Jennifer Lee",
+          "rating": 5,
+          "date": "2024-01-17",
+          "comment": "Best steak in town! The quality is exceptional and the presentation was beautiful.",
+          "images": ["/images/review-ribeye-3.jpg"]
+        },
+        {
+          "customerName": "Mark Anderson",
+          "rating": 4,
+          "date": "2024-01-15",
+          "comment": "Great steak with excellent flavor. The vegetables were fresh and perfectly seasoned.",
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Margherita Pizza",
+      "fullDescription": "Traditional Neapolitan-style Margherita pizza made with our house-made dough, San Marzano tomato sauce, fresh mozzarella di bufala, and aromatic basil leaves. Baked in our wood-fired oven at 900°F for that perfect crispy crust and smoky flavor. This classic pizza represents the colors of the Italian flag and embodies the essence of authentic Italian cuisine.",
+      "price": 18,
+      "category": "popular",
+      "rating": 4.6,
+      "images": [
+        "/images/margherita-pizza-1.jpg",
+        "/images/margherita-pizza-2.jpg",
+        "/images/margherita-pizza-3.jpg",
+        "/images/margherita-pizza-4.jpg"
+      ],
+      "benefits": [
+        {
+          "title": "Lycopene from Tomatoes",
+          "description": "Rich in lycopene, a powerful antioxidant that may help protect against heart disease and certain cancers."
+        },
+        {
+          "title": "Calcium from Cheese",
+          "description": "Fresh mozzarella provides calcium essential for strong bones and teeth."
+        },
+        {
+          "title": "Complex Carbohydrates",
+          "description": "Our sourdough crust provides sustained energy and contains beneficial probiotics."
+        },
+        {
+          "title": "Fresh Herbs Benefits",
+          "description": "Basil contains antioxidants and has anti-inflammatory properties that support overall health."
+        }
+      ],
+      "reviews": [
+        {
+          "customerName": "Maria Rodriguez",
+          "rating": 5,
+          "date": "2024-01-19",
+          "comment": "Authentic Italian taste! The crust was perfectly crispy and the fresh mozzarella was amazing.",
+          "images": ["/images/review-margherita-1.jpg"]
+        },
+        {
+          "customerName": "Tony Russo",
+          "rating": 5,
+          "date": "2024-01-16",
+          "comment": "Best Margherita pizza outside of Italy! The wood-fired oven makes all the difference.",
+          "images": ["/images/review-margherita-2.jpg", "/images/review-margherita-3.jpg"]
+        },
+        {
+          "customerName": "Anna Schmidt",
+          "rating": 4,
+          "date": "2024-01-13",
+          "comment": "Delicious pizza with fresh ingredients. The basil was aromatic and added great flavor.",
+          "images": []
+        }
+      ]
+    }
+  ]
+}
