@@ -30,6 +30,10 @@
             {
               "title": "Customizable Nutrition",
               "description": "Can be paired with fruits, nuts, or protein to create a more balanced meal"
+            },
+            {
+              "title": "Calcium Source",
+              "description": "Butter and optional milk pairings provide calcium for bone health"
             }
           ],
           "reviews": [
@@ -38,14 +42,31 @@
               "rating": 5,
               "comment": "Absolutely the best pancakes I've ever had! Fluffy, delicious, and the maple syrup is real quality.",
               "date": "2024-01-15",
-              "images": ["/images/review-pancakes-1.jpg", "/images/review-pancakes-2.jpg"]
+              "images": [
+                "/images/review-pancakes-1.jpg",
+                "/images/review-pancakes-2.jpg"
+              ]
             },
             {
               "customerName": "Mike Chen",
               "rating": 4,
               "comment": "Great texture and taste. Portion size is generous. Will definitely come back!",
               "date": "2024-01-12",
-              "images": []
+              "images": ["/images/review-pancakes-3.jpg"]
+            },
+            {
+              "customerName": "Emily Carter",
+              "rating": 5,
+              "comment": "Perfect breakfast treat! The pancakes are so light and the syrup is divine.",
+              "date": "2024-02-10",
+              "images": ["/images/review-pancakes-4.jpg"]
+            },
+            {
+              "customerName": "James Lee",
+              "rating": 4,
+              "comment": "Really enjoyed these pancakes. Great with extra berries on top!",
+              "date": "2024-03-05",
+              "images": ["/images/review-pancakes-5.jpg"]
             }
           ]
         },
@@ -95,7 +116,21 @@
               "rating": 4,
               "comment": "Healthy and delicious. Great presentation too!",
               "date": "2024-01-16",
-              "images": []
+              "images": ["/images/review-avocado-2.jpg"]
+            },
+            {
+              "customerName": "Sophie Nguyen",
+              "rating": 5,
+              "comment": "Best avocado toast ever! The egg is always perfectly poached.",
+              "date": "2024-02-15",
+              "images": ["/images/review-avocado-3.jpg"]
+            },
+            {
+              "customerName": "Liam Patel",
+              "rating": 4,
+              "comment": "Fresh and flavorful. The lime adds a nice zing!",
+              "date": "2024-03-01",
+              "images": ["/images/review-avocado-4.jpg"]
             }
           ]
         },
@@ -126,6 +161,10 @@
             {
               "title": "Energy Providing",
               "description": "Complex carbohydrates from brioche provide sustained energy release"
+            },
+            {
+              "title": "Mood Enhancer",
+              "description": "Sweet flavors and aromas can boost mood and satisfaction"
             }
           ],
           "reviews": [
@@ -134,7 +173,220 @@
               "rating": 4,
               "comment": "Delicious French toast! The berry compote is the perfect complement.",
               "date": "2024-01-14",
-              "images": []
+              "images": ["/images/review-french-toast-1.jpg"]
+            },
+            {
+              "customerName": "Chris Evans",
+              "rating": 5,
+              "comment": "The best French toast I’ve had! So fluffy and flavorful.",
+              "date": "2024-02-20",
+              "images": ["/images/review-french-toast-2.jpg"]
+            },
+            {
+              "customerName": "Rachel Kim",
+              "rating": 4,
+              "comment": "Loved the cinnamon flavor and the berries were fresh!",
+              "date": "2024-03-10",
+              "images": ["/images/review-french-toast-3.jpg"]
+            },
+            {
+              "customerName": "Mark Thompson",
+              "rating": 5,
+              "comment": "Perfect breakfast indulgence. The whipped cream is a great touch.",
+              "date": "2024-04-01",
+              "images": ["/images/review-french-toast-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Eggs Benedict",
+          "description": "Poached eggs with hollandaise sauce on English muffin",
+          "fullDescription": "Two perfectly poached eggs served atop a toasted English muffin with Canadian bacon, finished with a rich, creamy hollandaise sauce made with fresh egg yolks and lemon. Accompanied by roasted potatoes and a side of mixed greens.",
+          "price": 16,
+          "category": "popular",
+          "image": "eggs_benedict.jpg",
+          "images": [
+            "/images/eggs_benedict.jpg",
+            "/images/eggs_benedict-2.jpg",
+            "/images/eggs_benedict-3.jpg",
+            "/images/eggs_benedict-4.jpg"
+          ],
+          "rating": 4.6,
+          "benefits": [
+            {
+              "title": "High-Quality Protein",
+              "description": "Eggs and Canadian bacon provide complete proteins for muscle health"
+            },
+            {
+              "title": "Vitamin B12",
+              "description": "Supports nerve function and red blood cell production"
+            },
+            {
+              "title": "Healthy Fats",
+              "description": "Hollandaise provides energy and aids in nutrient absorption"
+            },
+            {
+              "title": "Fiber from Greens",
+              "description": "Side salad adds fiber for digestive health"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Laura Adams",
+              "rating": 5,
+              "comment": "The hollandaise is perfection! Eggs cooked just right.",
+              "date": "2024-05-01",
+              "images": ["/images/review-eggs-benedict-1.jpg"]
+            },
+            {
+              "customerName": "Tom Nguyen",
+              "rating": 4,
+              "comment": "Great dish, love the creamy sauce and crispy muffin.",
+              "date": "2024-05-15",
+              "images": ["/images/review-eggs-benedict-2.jpg"]
+            },
+            {
+              "customerName": "Sophia Patel",
+              "rating": 5,
+              "comment": "Best Eggs Benedict I’ve had! The potatoes are a great side.",
+              "date": "2024-06-01",
+              "images": ["/images/review-eggs-benedict-3.jpg"]
+            },
+            {
+              "customerName": "Daniel Kim",
+              "rating": 4,
+              "comment": "Very flavorful, though I’d prefer a bit more bacon.",
+              "date": "2024-06-10",
+              "images": ["/images/review-eggs-benedict-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Veggie Omelette",
+          "description": "Three-egg omelette with spinach, tomatoes, and feta",
+          "fullDescription": "A fluffy three-egg omelette filled with fresh spinach, cherry tomatoes, red onions, and crumbled feta cheese. Served with a side of toasted sourdough and a mixed berry fruit cup for a balanced start to your day.",
+          "price": 13,
+          "category": "healthy",
+          "image": "veggie_omelette.jpg",
+          "images": [
+            "/images/veggie_omelette.jpg",
+            "/images/veggie_omelette-2.jpg",
+            "/images/veggie_omelette-3.jpg",
+            "/images/veggie_omelette-4.jpg"
+          ],
+          "rating": 4.4,
+          "benefits": [
+            {
+              "title": "High in Protein",
+              "description": "Eggs and feta provide protein for muscle repair and satiety"
+            },
+            {
+              "title": "Antioxidant-Rich Veggies",
+              "description": "Spinach and tomatoes offer vitamins A and C to boost immunity"
+            },
+            {
+              "title": "Calcium from Feta",
+              "description": "Supports bone health and muscle function"
+            },
+            {
+              "title": "Low-Carb Option",
+              "description": "Ideal for those seeking a lighter, nutrient-dense breakfast"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Hannah Lee",
+              "rating": 5,
+              "comment": "So fresh and flavorful! The feta adds a great tang.",
+              "date": "2024-07-01",
+              "images": ["/images/review-veggie-omelette-1.jpg"]
+            },
+            {
+              "customerName": "Michael Brown",
+              "rating": 4,
+              "comment": "Healthy and delicious. The fruit cup is a nice touch.",
+              "date": "2024-07-15",
+              "images": ["/images/review-veggie-omelette-2.jpg"]
+            },
+            {
+              "customerName": "Olivia Chen",
+              "rating": 5,
+              "comment": "Perfect for a light breakfast. Veggies are super fresh!",
+              "date": "2024-08-01",
+              "images": ["/images/review-veggie-omelette-3.jpg"]
+            },
+            {
+              "customerName": "Ethan Davis",
+              "rating": 4,
+              "comment": "Great omelette, though I’d love more feta next time.",
+              "date": "2024-08-10",
+              "images": ["/images/review-veggie-omelette-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Breakfast Burrito",
+          "description": "Scrambled eggs, chorizo, and cheese in a flour tortilla",
+          "fullDescription": "A hearty flour tortilla stuffed with fluffy scrambled eggs, spicy chorizo, melted cheddar cheese, sautéed peppers and onions, and a dollop of house-made salsa. Served with a side of crispy hashbrowns and sour cream.",
+          "price": 14,
+          "category": "regular",
+          "image": "breakfast_burrito.jpg",
+          "images": [
+            "/images/breakfast_burrito.jpg",
+            "/images/breakfast_burrito-2.jpg",
+            "/images/breakfast_burrito-3.jpg",
+            "/images/breakfast_burrito-4.jpg"
+          ],
+          "rating": 4.5,
+          "benefits": [
+            {
+              "title": "High Protein Content",
+              "description": "Eggs and chorizo provide ample protein for sustained energy"
+            },
+            {
+              "title": "Spicy Metabolism Boost",
+              "description": "Chorizo and salsa spices may enhance metabolic rate"
+            },
+            {
+              "title": "Vitamin C from Peppers",
+              "description": "Bell peppers add immune-boosting vitamin C"
+            },
+            {
+              "title": "Satisfying and Filling",
+              "description": "A hearty meal to keep you full through the morning"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Carlos Rivera",
+              "rating": 5,
+              "comment": "Amazing burrito! The chorizo has the perfect kick.",
+              "date": "2024-09-01",
+              "images": ["/images/review-breakfast-burrito-1.jpg"]
+            },
+            {
+              "customerName": "Megan White",
+              "rating": 4,
+              "comment": "Really tasty and filling. Salsa is fresh and zesty!",
+              "date": "2024-09-10",
+              "images": ["/images/review-breakfast-burrito-2.jpg"]
+            },
+            {
+              "customerName": "Noah Patel",
+              "rating": 5,
+              "comment": "Best breakfast burrito in town! Love the hashbrowns.",
+              "date": "2024-09-15",
+              "images": ["/images/review-breakfast-burrito-3.jpg"]
+            },
+            {
+              "customerName": "Isabella Kim",
+              "rating": 4,
+              "comment": "Great flavors, though a bit spicy for me.",
+              "date": "2024-09-20",
+              "images": ["/images/review-breakfast-burrito-4.jpg"]
             }
           ]
         }
@@ -189,7 +441,341 @@
               "rating": 5,
               "comment": "Fresh, crispy, and delicious. The perfect lunch salad!",
               "date": "2024-01-19",
-              "images": []
+              "images": ["/images/review-caesar-2.jpg"]
+            },
+            {
+              "customerName": "Lucas Kim",
+              "rating": 4,
+              "comment": "Really enjoyed the salad. The chicken add-on was great!",
+              "date": "2024-02-25",
+              "images": ["/images/review-caesar-3.jpg"]
+            },
+            {
+              "customerName": "Mia Chen",
+              "rating": 5,
+              "comment": "Perfect balance of flavors. The croutons are to die for!",
+              "date": "2024-03-15",
+              "images": ["/images/review-caesar-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Grilled Chicken Sandwich",
+          "description": "Grilled chicken breast with lettuce, tomato, and aioli",
+          "fullDescription": "Juicy grilled chicken breast marinated in herbs, served on a toasted brioche bun with crisp lettuce, ripe tomatoes, and a creamy garlic aioli. Accompanied by sweet potato fries and a pickle spear.",
+          "price": 18,
+          "category": "popular",
+          "image": "chicken_sandwich.jpg",
+          "images": [
+            "/images/chicken_sandwich.jpg",
+            "/images/chicken_sandwich-2.jpg",
+            "/images/chicken_sandwich-3.jpg",
+            "/images/chicken_sandwich-4.jpg"
+          ],
+          "rating": 4.7,
+          "benefits": [
+            {
+              "title": "Lean Protein",
+              "description": "Chicken breast provides high-quality protein with low fat"
+            },
+            {
+              "title": "Vitamin C from Tomatoes",
+              "description": "Supports immune health and collagen production"
+            },
+            {
+              "title": "Fiber from Sweet Potatoes",
+              "description": "Promotes digestive health and satiety"
+            },
+            {
+              "title": "Healthy Fats in Aioli",
+              "description": "Olive oil-based aioli supports heart health"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Emma Davis",
+              "rating": 5,
+              "comment": "Amazing sandwich! The chicken is so tender and flavorful.",
+              "date": "2024-04-01",
+              "images": ["/images/review-chicken-sandwich-1.jpg"]
+            },
+            {
+              "customerName": "Liam Brown",
+              "rating": 4,
+              "comment": "Great lunch option. The sweet potato fries are a hit!",
+              "date": "2024-04-15",
+              "images": ["/images/review-chicken-sandwich-2.jpg"]
+            },
+            {
+              "customerName": "Sophia Lee",
+              "rating": 5,
+              "comment": "Perfect balance of flavors. Love the aioli!",
+              "date": "2024-05-01",
+              "images": ["/images/review-chicken-sandwich-3.jpg"]
+            },
+            {
+              "customerName": "Noah Patel",
+              "rating": 4,
+              "comment": "Really tasty, though I’d love more sauce next time.",
+              "date": "2024-05-10",
+              "images": ["/images/review-chicken-sandwich-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Quinoa Bowl",
+          "description": "Quinoa with roasted vegetables and tahini dressing",
+          "fullDescription": "Nutty quinoa mixed with roasted zucchini, bell peppers, and sweet potatoes, topped with a creamy tahini dressing and a sprinkle of toasted sesame seeds. Served with a side of mixed greens.",
+          "price": 16,
+          "category": "healthy",
+          "image": "quinoa_bowl.jpg",
+          "images": [
+            "/images/quinoa_bowl.jpg",
+            "/images/quinoa_bowl-2.jpg",
+            "/images/quinoa_bowl-3.jpg",
+            "/images/quinoa_bowl-4.jpg"
+          ],
+          "rating": 4.5,
+          "benefits": [
+            {
+              "title": "Complete Protein",
+              "description": "Quinoa provides all essential amino acids"
+            },
+            {
+              "title": "High in Fiber",
+              "description": "Supports digestive health and satiety"
+            },
+            {
+              "title": "Antioxidant-Rich Veggies",
+              "description": "Roasted vegetables provide vitamins A and C"
+            },
+            {
+              "title": "Healthy Fats in Tahini",
+              "description": "Sesame-based tahini supports heart health"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Olivia Chen",
+              "rating": 5,
+              "comment": "So fresh and healthy! The tahini dressing is amazing.",
+              "date": "2024-06-01",
+              "images": ["/images/review-quinoa-bowl-1.jpg"]
+            },
+            {
+              "customerName": "Ethan Kim",
+              "rating": 4,
+              "comment": "Great light lunch. Veggies were perfectly roasted.",
+              "date": "2024-06-15",
+              "images": ["/images/review-quinoa-bowl-2.jpg"]
+            },
+            {
+              "customerName": "Ava Patel",
+              "rating": 5,
+              "comment": "Love this bowl! Perfect for a healthy meal.",
+              "date": "2024-07-01",
+              "images": ["/images/review-quinoa-bowl-3.jpg"]
+            },
+            {
+              "customerName": "Mason Lee",
+              "rating": 4,
+              "comment": "Tasty and filling. Would love more dressing!",
+              "date": "2024-07-10",
+              "images": ["/images/review-quinoa-bowl-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Turkey Club Wrap",
+          "description": "Turkey, bacon, lettuce, and tomato in a spinach wrap",
+          "fullDescription": "Sliced roasted turkey breast, crispy bacon, romaine lettuce, ripe tomatoes, and mayo wrapped in a vibrant spinach tortilla. Served with a side of kettle chips and a pickle.",
+          "price": 17,
+          "category": "regular",
+          "image": "turkey_club_wrap.jpg",
+          "images": [
+            "/images/turkey_club_wrap.jpg",
+            "/images/turkey_club_wrap-2.jpg",
+            "/images/turkey_club_wrap-3.jpg",
+            "/images/turkey_club_wrap-4.jpg"
+          ],
+          "rating": 4.6,
+          "benefits": [
+            {
+              "title": "Lean Protein",
+              "description": "Turkey provides low-fat protein for muscle health"
+            },
+            {
+              "title": "Vitamin C from Tomatoes",
+              "description": "Supports immune function and skin health"
+            },
+            {
+              "title": "Fiber from Lettuce",
+              "description": "Promotes digestive health"
+            },
+            {
+              "title": "Satisfying Crunch",
+              "description": "Bacon and chips add texture and satisfaction"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Isabella Kim",
+              "rating": 5,
+              "comment": "Perfect wrap! The bacon adds great flavor.",
+              "date": "2024-08-01",
+              "images": ["/images/review-turkey-wrap-1.jpg"]
+            },
+            {
+              "customerName": "Lucas Brown",
+              "rating": 4,
+              "comment": "Really good lunch option. Chips are a nice touch.",
+              "date": "2024-08-15",
+              "images": ["/images/review-turkey-wrap-2.jpg"]
+            },
+            {
+              "customerName": "Mia Davis",
+              "rating": 5,
+              "comment": "Love the spinach wrap! So fresh and tasty.",
+              "date": "2024-09-01",
+              "images": ["/images/review-turkey-wrap-3.jpg"]
+            },
+            {
+              "customerName": "Noah Chen",
+              "rating": 4,
+              "comment": "Great wrap, though I’d prefer more turkey.",
+              "date": "2024-09-10",
+              "images": ["/images/review-turkey-wrap-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "Caprese Panini",
+          "description": "Fresh mozzarella, tomatoes, and basil on ciabatta",
+          "fullDescription": "Fresh mozzarella slices, ripe tomatoes, and basil leaves drizzled with balsamic glaze and olive oil, pressed in ciabatta bread until golden and melty. Served with a side of mixed greens.",
+          "price": 15,
+          "category": "featured",
+          "image": "caprese_panini.jpg",
+          "images": [
+            "/images/caprese_panini.jpg",
+            "/images/caprese_panini-2.jpg",
+            "/images/caprese_panini-3.jpg",
+            "/images/caprese_panini-4.jpg"
+          ],
+          "rating": 4.5,
+          "benefits": [
+            {
+              "title": "Calcium from Mozzarella",
+              "description": "Supports bone and muscle health"
+            },
+            {
+              "title": "Antioxidants in Basil",
+              "description": "Helps reduce inflammation in the body"
+            },
+            {
+              "title": "Heart-Healthy Olive Oil",
+              "description": "Monounsaturated fats promote cardiovascular health"
+            },
+            {
+              "title": "Lycopene from Tomatoes",
+              "description": "Antioxidant that supports heart health"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Sophia Lee",
+              "rating": 5,
+              "comment": "So fresh and flavorful! The balsamic glaze is perfect.",
+              "date": "2024-09-15",
+              "images": ["/images/review-caprese-panini-1.jpg"]
+            },
+            {
+              "customerName": "Ethan Patel",
+              "rating": 4,
+              "comment": "Great panini. Love the melty mozzarella!",
+              "date": "2024-09-20",
+              "images": ["/images/review-caprese-panini-2.jpg"]
+            },
+            {
+              "customerName": "Ava Kim",
+              "rating": 5,
+              "comment": "Perfect light lunch. The ciabatta is amazing.",
+              "date": "2024-09-25",
+              "images": ["/images/review-caprese-panini-3.jpg"]
+            },
+            {
+              "customerName": "Mason Chen",
+              "rating": 4,
+              "comment": "Tasty, though I’d add more basil next time.",
+              "date": "2024-09-30",
+              "images": ["/images/review-caprese-panini-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "BLT Sandwich",
+          "description": "Bacon, lettuce, and tomato with mayo on sourdough",
+          "fullDescription": "Crispy bacon, crisp romaine lettuce, and juicy tomatoes layered with creamy mayo on toasted sourdough bread. Served with a side of coleslaw and a pickle spear.",
+          "price": 14,
+          "category": "regular",
+          "image": "blt_sandwich.jpg",
+          "images": [
+            "/images/blt_sandwich.jpg",
+            "/images/blt_sandwich-2.jpg",
+            "/images/blt_sandwich-3.jpg",
+            "/images/blt_sandwich-4.jpg"
+          ],
+          "rating": 4.6,
+          "benefits": [
+            {
+              "title": "Protein from Bacon",
+              "description": "Provides energy and supports muscle maintenance"
+            },
+            {
+              "title": "Vitamin C from Tomatoes",
+              "description": "Boosts immune function and skin health"
+            },
+            {
+              "title": "Fiber from Lettuce",
+              "description": "Supports digestive health and satiety"
+            },
+            {
+              "title": "Energy from Sourdough",
+              "description": "Complex carbs provide sustained energy"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Lucas Kim",
+              "rating": 5,
+              "comment": "Classic BLT done right! The bacon is perfectly crispy.",
+              "date": "2024-10-01",
+              "images": ["/images/review-blt-sandwich-1.jpg"]
+            },
+            {
+              "customerName": "Mia Patel",
+              "rating": 4,
+              "comment": "Great sandwich. The sourdough is fantastic!",
+              "date": "2024-10-05",
+              "images": ["/images/review-blt-sandwich-2.jpg"]
+            },
+            {
+              "customerName": "Noah Lee",
+              "rating": 5,
+              "comment": "Love this BLT! The coleslaw is a great side.",
+              "date": "2024-10-10",
+              "images": ["/images/review-blt-sandwich-3.jpg"]
+            },
+            {
+              "customerName": "Isabella Chen",
+              "rating": 4,
+              "comment": "Tasty and fresh. Could use more bacon.",
+              "date": "2024-10-15",
+              "images": ["/images/review-blt-sandwich-4.jpg"]
             }
           ]
         }
@@ -237,14 +823,351 @@
               "rating": 5,
               "comment": "Absolutely perfect steak! Cooked exactly as requested and incredibly tender. The mashed potatoes are heavenly.",
               "date": "2024-01-22",
-              "images": ["/images/review-ribeye-1.jpg", "/images/review-ribeye-2.jpg"]
+              "images": [
+                "/images/review-ribeye-1.jpg",
+                "/images/review-ribeye-2.jpg"
+              ]
             },
             {
               "customerName": "Maria Garcia",
               "rating": 5,
               "comment": "Best steak I've had in years! Worth every penny. The seasoning is perfect.",
               "date": "2024-01-21",
-              "images": []
+              "images": ["/images/review-ribeye-3.jpg"]
+            },
+            {
+              "customerName": "James Patel",
+              "rating": 4,
+              "comment": "Fantastic steak, though I’d prefer more veggies.",
+              "date": "2024-02-01",
+              "images": ["/images/review-ribeye-4.jpg"]
+            },
+            {
+              "customerName": "Sophie Lee",
+              "rating": 5,
+              "comment": "Melt-in-your-mouth delicious! The potatoes are amazing.",
+              "date": "2024-02-15",
+              "images": ["/images/review-ribeye-5.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "name": "Grilled Salmon",
+          "description": "Fresh salmon fillet with lemon herb sauce and asparagus",
+          "fullDescription": "Fresh Atlantic salmon fillet grilled to perfection with a light lemon herb sauce. Served with grilled asparagus and quinoa pilaf for a balanced and flavorful meal.",
+          "price": 35,
+          "category": "healthy",
+          "image": "grilled_salmon.jpg",
+          "images": [
+            "/images/grilled_salmon.jpg",
+            "/images/grilled_salmon-2.jpg",
+            "/images/grilled_salmon-3.jpg",
+            "/images/grilled_salmon-4.jpg"
+          ],
+          "rating": 4.8,
+          "benefits": [
+            {
+              "title": "Omega-3 Fatty Acids",
+              "description": "Supports heart health and reduces inflammation"
+            },
+            {
+              "title": "High Protein",
+              "description": "Salmon provides complete protein for muscle repair"
+            },
+            {
+              "title": "Vitamin D Source",
+              "description": "Essential for bone health and immune function"
+            },
+            {
+              "title": "Antioxidant from Asparagus",
+              "description": "Provides vitamins A, C, E for overall wellness"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Emily Carter",
+              "rating": 5,
+              "comment": "The salmon was perfectly cooked and the sauce was delightful.",
+              "date": "2024-03-01",
+              "images": ["/images/review-grilled-salmon-1.jpg"]
+            },
+            {
+              "customerName": "David Brown",
+              "rating": 4,
+              "comment": "Healthy and tasty. Asparagus was fresh!",
+              "date": "2024-03-15",
+              "images": ["/images/review-grilled-salmon-2.jpg"]
+            },
+            {
+              "customerName": "Laura Adams",
+              "rating": 5,
+              "comment": "Best salmon I've had. Quinoa was a great side.",
+              "date": "2024-04-01",
+              "images": ["/images/review-grilled-salmon-3.jpg"]
+            },
+            {
+              "customerName": "Tom Nguyen",
+              "rating": 4,
+              "comment": "Flavorful, though I'd like more sauce.",
+              "date": "2024-04-10",
+              "images": ["/images/review-grilled-salmon-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "name": "Chicken Parmesan",
+          "description": "Breaded chicken with marinara and mozzarella over pasta",
+          "fullDescription": "Tender chicken breast breaded and fried, topped with house-made marinara sauce and melted mozzarella cheese. Served over al dente spaghetti with a side of garlic bread.",
+          "price": 28,
+          "category": "popular",
+          "image": "chicken_parmesan.jpg",
+          "images": [
+            "/images/chicken_parmesan.jpg",
+            "/images/chicken_parmesan-2.jpg",
+            "/images/chicken_parmesan-3.jpg",
+            "/images/chicken_parmesan-4.jpg"
+          ],
+          "rating": 4.7,
+          "benefits": [
+            {
+              "title": "Protein Rich",
+              "description": "Chicken provides lean protein for muscle health"
+            },
+            {
+              "title": "Lycopene from Marinara",
+              "description": "Antioxidant benefits from tomato sauce"
+            },
+            {
+              "title": "Calcium from Cheese",
+              "description": "Supports bone strength"
+            },
+            {
+              "title": "Energy from Pasta",
+              "description": "Carbohydrates for sustained energy"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Rachel Kim",
+              "rating": 5,
+              "comment": "Classic dish done perfectly! Cheese was gooey.",
+              "date": "2024-05-01",
+              "images": ["/images/review-chicken-parmesan-1.jpg"]
+            },
+            {
+              "customerName": "Mark Thompson",
+              "rating": 4,
+              "comment": "Delicious, pasta was cooked just right.",
+              "date": "2024-05-15",
+              "images": ["/images/review-chicken-parmesan-2.jpg"]
+            },
+            {
+              "customerName": "Lisa Martinez",
+              "rating": 5,
+              "comment": "Loved the marinara sauce! Great portion.",
+              "date": "2024-06-01",
+              "images": ["/images/review-chicken-parmesan-3.jpg"]
+            },
+            {
+              "customerName": "Chris Evans",
+              "rating": 4,
+              "comment": "Tasty, but a bit heavy for dinner.",
+              "date": "2024-06-10",
+              "images": ["/images/review-chicken-parmesan-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "name": "Lamb Chops",
+          "description": "Grilled lamb chops with mint sauce and roasted potatoes",
+          "fullDescription": "Succulent lamb chops grilled with rosemary and garlic, served with a fresh mint sauce, roasted fingerling potatoes, and sautéed green beans.",
+          "price": 40,
+          "category": "featured",
+          "image": "lamb_chops.jpg",
+          "images": [
+            "/images/lamb_chops.jpg",
+            "/images/lamb_chops-2.jpg",
+            "/images/lamb_chops-3.jpg",
+            "/images/lamb_chops-4.jpg"
+          ],
+          "rating": 4.9,
+          "benefits": [
+            {
+              "title": "High in Iron",
+              "description": "Lamb provides heme iron for energy"
+            },
+            {
+              "title": "Protein Source",
+              "description": "Supports muscle growth and repair"
+            },
+            {
+              "title": "Vitamin B12",
+              "description": "Essential for nerve function"
+            },
+            {
+              "title": "Antioxidants from Herbs",
+              "description": "Rosemary and mint offer health benefits"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Sophie Nguyen",
+              "rating": 5,
+              "comment": "Tender and flavorful chops! Mint sauce was perfect.",
+              "date": "2024-07-01",
+              "images": ["/images/review-lamb-chops-1.jpg"]
+            },
+            {
+              "customerName": "Liam Patel",
+              "rating": 4,
+              "comment": "Great dish, potatoes were crispy.",
+              "date": "2024-07-15",
+              "images": ["/images/review-lamb-chops-2.jpg"]
+            },
+            {
+              "customerName": "Emma Wilson",
+              "rating": 5,
+              "comment": "Best lamb I've had. Highly recommend!",
+              "date": "2024-08-01",
+              "images": ["/images/review-lamb-chops-3.jpg"]
+            },
+            {
+              "customerName": "David Brown",
+              "rating": 4,
+              "comment": "Delicious, though pricey.",
+              "date": "2024-08-10",
+              "images": ["/images/review-lamb-chops-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "name": "Mushroom Risotto",
+          "description": "Creamy risotto with wild mushrooms and parmesan",
+          "fullDescription": "Arborio rice cooked slowly with vegetable broth, mixed with sautéed wild mushrooms, finished with parmesan cheese and a drizzle of truffle oil. Served with a side salad.",
+          "price": 22,
+          "category": "healthy",
+          "image": "mushroom_risotto.jpg",
+          "images": [
+            "/images/mushroom_risotto.jpg",
+            "/images/mushroom_risotto-2.jpg",
+            "/images/mushroom_risotto-3.jpg",
+            "/images/mushroom_risotto-4.jpg"
+          ],
+          "rating": 4.6,
+          "benefits": [
+            {
+              "title": "Fiber Rich",
+              "description": "Mushrooms provide fiber for digestion"
+            },
+            {
+              "title": "Low Calorie",
+              "description": "A satisfying yet lighter dinner option"
+            },
+            {
+              "title": "Antioxidants",
+              "description": "Mushrooms offer selenium for immune support"
+            },
+            {
+              "title": "Calcium from Parmesan",
+              "description": "Supports bone health"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Hannah Lee",
+              "rating": 5,
+              "comment": "Creamy and earthy flavors! Truffle oil elevates it.",
+              "date": "2024-09-01",
+              "images": ["/images/review-mushroom-risotto-1.jpg"]
+            },
+            {
+              "customerName": "Michael Brown",
+              "rating": 4,
+              "comment": "Great vegetarian option. Risotto was perfect.",
+              "date": "2024-09-10",
+              "images": ["/images/review-mushroom-risotto-2.jpg"]
+            },
+            {
+              "customerName": "Olivia Chen",
+              "rating": 5,
+              "comment": "Loved the mushrooms! Very comforting.",
+              "date": "2024-09-15",
+              "images": ["/images/review-mushroom-risotto-3.jpg"]
+            },
+            {
+              "customerName": "Ethan Davis",
+              "rating": 4,
+              "comment": "Tasty, but could use more cheese.",
+              "date": "2024-09-20",
+              "images": ["/images/review-mushroom-risotto-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "name": "Vegetable Stir-Fry",
+          "description": "Mixed vegetables with tofu in ginger soy sauce over rice",
+          "fullDescription": "Fresh broccoli, bell peppers, carrots, and snap peas stir-fried with tofu in a ginger soy sauce. Served over jasmine rice with sesame seeds.",
+          "price": 20,
+          "category": "healthy",
+          "image": "vegetable_stir_fry.jpg",
+          "images": [
+            "/images/vegetable_stir_fry.jpg",
+            "/images/vegetable_stir_fry-2.jpg",
+            "/images/vegetable_stir_fry-3.jpg",
+            "/images/vegetable_stir_fry-4.jpg"
+          ],
+          "rating": 4.5,
+          "benefits": [
+            {
+              "title": "Vitamin Packed",
+              "description": "Vegetables provide essential vitamins for health"
+            },
+            {
+              "title": "Plant-Based Protein",
+              "description": "Tofu offers protein for vegetarians"
+            },
+            {
+              "title": "Low Fat",
+              "description": "A light and nutritious meal"
+            },
+            {
+              "title": "Anti-Inflammatory Ginger",
+              "description": "Ginger aids digestion and reduces inflammation"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Carlos Rivera",
+              "rating": 5,
+              "comment": "Fresh and flavorful stir-fry! Love the ginger.",
+              "date": "2024-10-01",
+              "images": ["/images/review-vegetable-stir-fry-1.jpg"]
+            },
+            {
+              "customerName": "Megan White",
+              "rating": 4,
+              "comment": "Healthy and quick. Veggies were crisp.",
+              "date": "2024-10-05",
+              "images": ["/images/review-vegetable-stir-fry-2.jpg"]
+            },
+            {
+              "customerName": "Noah Patel",
+              "rating": 5,
+              "comment": "Great vegan option! Rice was fluffy.",
+              "date": "2024-10-10",
+              "images": ["/images/review-vegetable-stir-fry-3.jpg"]
+            },
+            {
+              "customerName": "Isabella Kim",
+              "rating": 4,
+              "comment": "Tasty, though I'd add more tofu.",
+              "date": "2024-10-15",
+              "images": ["/images/review-vegetable-stir-fry-4.jpg"]
             }
           ]
         }
@@ -293,6 +1216,347 @@
               "comment": "Authentic Italian taste! The crust is perfect and the ingredients are top quality. Reminds me of pizza in Naples!",
               "date": "2024-01-23",
               "images": ["/images/review-margherita-1.jpg"]
+            },
+            {
+              "customerName": "Laura Kim",
+              "rating": 4,
+              "comment": "Great pizza, love the fresh basil!",
+              "date": "2024-02-05",
+              "images": ["/images/review-margherita-2.jpg"]
+            },
+            {
+              "customerName": "Michael Chen",
+              "rating": 5,
+              "comment": "Perfect crust and sauce. A must-try!",
+              "date": "2024-02-20",
+              "images": ["/images/review-margherita-3.jpg"]
+            },
+            {
+              "customerName": "Emma Patel",
+              "rating": 4,
+              "comment": "Really tasty, though I’d like more mozzarella.",
+              "date": "2024-03-01",
+              "images": ["/images/review-margherita-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "name": "Pepperoni Pizza",
+          "description": "Pizza with tomato sauce, mozzarella, and pepperoni",
+          "fullDescription": "Hand-stretched dough topped with San Marzano tomato sauce, fresh mozzarella, and spicy pepperoni slices. Baked in wood-fired oven for crispy crust and melted cheese.",
+          "price": 20,
+          "category": "popular",
+          "image": "pepperoni_pizza.jpg",
+          "images": [
+            "/images/pepperoni_pizza.jpg",
+            "/images/pepperoni_pizza-2.jpg",
+            "/images/pepperoni_pizza-3.jpg",
+            "/images/pepperoni_pizza-4.jpg"
+          ],
+          "rating": 4.7,
+          "benefits": [
+            {
+              "title": "Protein from Pepperoni",
+              "description": "Provides satisfying protein"
+            },
+            {
+              "title": "Lycopene from Sauce",
+              "description": "Antioxidant benefits"
+            },
+            {
+              "title": "Calcium from Cheese",
+              "description": "Bone health support"
+            },
+            {
+              "title": "Energy Boost",
+              "description": "Carbs from dough for quick energy"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Steve Johnson",
+              "rating": 5,
+              "comment": "Classic pepperoni done right! Crispy and cheesy.",
+              "date": "2024-03-05",
+              "images": ["/images/review-pepperoni-1.jpg"]
+            },
+            {
+              "customerName": "Ava Kim",
+              "rating": 4,
+              "comment": "Great flavor, pepperoni was spicy.",
+              "date": "2024-03-15",
+              "images": ["/images/review-pepperoni-2.jpg"]
+            },
+            {
+              "customerName": "Lucas Patel",
+              "rating": 5,
+              "comment": "Best pepperoni pizza! Perfect crust.",
+              "date": "2024-04-01",
+              "images": ["/images/review-pepperoni-3.jpg"]
+            },
+            {
+              "customerName": "Sophia Chen",
+              "rating": 4,
+              "comment": "Tasty, but could use more toppings.",
+              "date": "2024-04-10",
+              "images": ["/images/review-pepperoni-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "name": "Veggie Pizza",
+          "description": "Pizza with tomato sauce, mozzarella, and assorted vegetables",
+          "fullDescription": "Dough topped with tomato sauce, mozzarella, bell peppers, onions, mushrooms, and olives. Baked to perfection in wood-fired oven.",
+          "price": 18,
+          "category": "healthy",
+          "image": "veggie_pizza.jpg",
+          "images": [
+            "/images/veggie_pizza.jpg",
+            "/images/veggie_pizza-2.jpg",
+            "/images/veggie_pizza-3.jpg",
+            "/images/veggie_pizza-4.jpg"
+          ],
+          "rating": 4.5,
+          "benefits": [
+            {
+              "title": "Vitamin Rich Veggies",
+              "description": "Provides essential vitamins"
+            },
+            {
+              "title": "Fiber Boost",
+              "description": "Supports digestion"
+            },
+            {
+              "title": "Low Calorie Option",
+              "description": "Lighter pizza choice"
+            },
+            {
+              "title": "Antioxidants",
+              "description": "From vegetables for health"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Olivia Chen",
+              "rating": 5,
+              "comment": "Fresh veggies! Healthy and delicious.",
+              "date": "2024-05-01",
+              "images": ["/images/review-veggie-pizza-1.jpg"]
+            },
+            {
+              "customerName": "Ethan Kim",
+              "rating": 4,
+              "comment": "Great vegetarian pizza.",
+              "date": "2024-05-15",
+              "images": ["/images/review-veggie-pizza-2.jpg"]
+            },
+            {
+              "customerName": "Ava Patel",
+              "rating": 5,
+              "comment": "Love the assortment of veggies!",
+              "date": "2024-06-01",
+              "images": ["/images/review-veggie-pizza-3.jpg"]
+            },
+            {
+              "customerName": "Mason Lee",
+              "rating": 4,
+              "comment": "Tasty, but add more cheese.",
+              "date": "2024-06-10",
+              "images": ["/images/review-veggie-pizza-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "name": "BBQ Chicken Pizza",
+          "description": "Pizza with BBQ sauce, chicken, red onions, and cilantro",
+          "fullDescription": "Dough with tangy BBQ sauce, grilled chicken, red onions, mozzarella, and fresh cilantro. Baked for smoky flavor.",
+          "price": 22,
+          "category": "featured",
+          "image": "bbq_chicken_pizza.jpg",
+          "images": [
+            "/images/bbq_chicken_pizza.jpg",
+            "/images/bbq_chicken_pizza-2.jpg",
+            "/images/bbq_chicken_pizza-3.jpg",
+            "/images/bbq_chicken_pizza-4.jpg"
+          ],
+          "rating": 4.8,
+          "benefits": [
+            {
+              "title": "Protein from Chicken",
+              "description": "Lean protein source"
+            },
+            {
+              "title": "Antioxidants from Onions",
+              "description": "Supports immunity"
+            },
+            {
+              "title": "Flavorful Herbs",
+              "description": "Cilantro adds freshness"
+            },
+            {
+              "title": "Energy Carbs",
+              "description": "From dough"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Isabella Kim",
+              "rating": 5,
+              "comment": "Smoky and delicious! Great twist.",
+              "date": "2024-07-01",
+              "images": ["/images/review-bbq-chicken-1.jpg"]
+            },
+            {
+              "customerName": "Lucas Brown",
+              "rating": 4,
+              "comment": "Love the BBQ sauce.",
+              "date": "2024-07-15",
+              "images": ["/images/review-bbq-chicken-2.jpg"]
+            },
+            {
+              "customerName": "Mia Davis",
+              "rating": 5,
+              "comment": "Perfect combination of flavors!",
+              "date": "2024-08-01",
+              "images": ["/images/review-bbq-chicken-3.jpg"]
+            },
+            {
+              "customerName": "Noah Chen",
+              "rating": 4,
+              "comment": "Tasty, but less onions next time.",
+              "date": "2024-08-10",
+              "images": ["/images/review-bbq-chicken-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "name": "White Pizza",
+          "description": "Pizza with ricotta, mozzarella, garlic, and spinach",
+          "fullDescription": "No-tomato sauce pizza with ricotta base, mozzarella, garlic, and fresh spinach. Baked for creamy texture.",
+          "price": 19,
+          "category": "regular",
+          "image": "white_pizza.jpg",
+          "images": [
+            "/images/white_pizza.jpg",
+            "/images/white_pizza-2.jpg",
+            "/images/white_pizza-3.jpg",
+            "/images/white_pizza-4.jpg"
+          ],
+          "rating": 4.6,
+          "benefits": [
+            {
+              "title": "Calcium Rich",
+              "description": "From cheeses"
+            },
+            {
+              "title": "Vitamin K from Spinach",
+              "description": "Bone health"
+            },
+            {
+              "title": "Garlic Benefits",
+              "description": "Immune boost"
+            },
+            {
+              "title": "Lighter Sauce",
+              "description": "Less acidic"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Sophia Lee",
+              "rating": 5,
+              "comment": "Creamy and garlicky! Love it.",
+              "date": "2024-09-01",
+              "images": ["/images/review-white-pizza-1.jpg"]
+            },
+            {
+              "customerName": "Ethan Patel",
+              "rating": 4,
+              "comment": "Great alternative to red sauce.",
+              "date": "2024-09-10",
+              "images": ["/images/review-white-pizza-2.jpg"]
+            },
+            {
+              "customerName": "Ava Kim",
+              "rating": 5,
+              "comment": "Spinach adds nice touch!",
+              "date": "2024-09-15",
+              "images": ["/images/review-white-pizza-3.jpg"]
+            },
+            {
+              "customerName": "Mason Chen",
+              "rating": 4,
+              "comment": "Delicious, more garlic please.",
+              "date": "2024-09-20",
+              "images": ["/images/review-white-pizza-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "name": "Meat Lovers Pizza",
+          "description": "Pizza with tomato sauce, mozzarella, and assorted meats",
+          "fullDescription": "Loaded with pepperoni, sausage, bacon, and ham on tomato sauce and mozzarella. Baked for hearty flavor.",
+          "price": 24,
+          "category": "popular",
+          "image": "meat_lovers_pizza.jpg",
+          "images": [
+            "/images/meat_lovers_pizza.jpg",
+            "/images/meat_lovers_pizza-2.jpg",
+            "/images/meat_lovers_pizza-3.jpg",
+            "/images/meat_lovers_pizza-4.jpg"
+          ],
+          "rating": 4.7,
+          "benefits": [
+            {
+              "title": "High Protein",
+              "description": "From multiple meats"
+            },
+            {
+              "title": "Satisfying",
+              "description": "Hearty meal"
+            },
+            {
+              "title": "B Vitamins",
+              "description": "From meats for energy"
+            },
+            {
+              "title": "Iron Source",
+              "description": "Prevents anemia"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Lucas Kim",
+              "rating": 5,
+              "comment": "Loaded with meat! Perfect for carnivores.",
+              "date": "2024-10-01",
+              "images": ["/images/review-meat-lovers-1.jpg"]
+            },
+            {
+              "customerName": "Mia Patel",
+              "rating": 4,
+              "comment": "Great variety of meats.",
+              "date": "2024-10-05",
+              "images": ["/images/review-meat-lovers-2.jpg"]
+            },
+            {
+              "customerName": "Noah Lee",
+              "rating": 5,
+              "comment": "Best meat pizza ever!",
+              "date": "2024-10-10",
+              "images": ["/images/review-meat-lovers-3.jpg"]
+            },
+            {
+              "customerName": "Isabella Chen",
+              "rating": 4,
+              "comment": "Tasty, but quite heavy.",
+              "date": "2024-10-15",
+              "images": ["/images/review-meat-lovers-4.jpg"]
             }
           ]
         }
@@ -328,6 +1592,10 @@
             {
               "title": "Iron Content",
               "description": "Heme iron from beef is easily absorbed and prevents anemia"
+            },
+            {
+              "title": "Fiber from Veggies",
+              "description": "Lettuce and tomatoes add fiber for digestive health"
             }
           ],
           "reviews": [
@@ -336,7 +1604,348 @@
               "rating": 4,
               "comment": "Great classic burger! Cooked perfectly and the fries are amazing. Good portion size.",
               "date": "2024-01-24",
-              "images": []
+              "images": ["/images/review-classic-cheeseburger-1.jpg"]
+            },
+            {
+              "customerName": "Ava Kim",
+              "rating": 5,
+              "comment": "Best burger ever! The sauce is fantastic.",
+              "date": "2024-02-10",
+              "images": ["/images/review-classic-cheeseburger-2.jpg"]
+            },
+            {
+              "customerName": "Lucas Patel",
+              "rating": 4,
+              "comment": "Really juicy burger. Fries are a great side!",
+              "date": "2024-02-25",
+              "images": ["/images/review-classic-cheeseburger-3.jpg"]
+            },
+            {
+              "customerName": "Sophia Chen",
+              "rating": 5,
+              "comment": "Perfect burger. Love the brioche bun!",
+              "date": "2024-03-05",
+              "images": ["/images/review-classic-cheeseburger-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 50,
+          "name": "Bacon Burger",
+          "description": "Beef patty with bacon, cheese, lettuce, and tomato",
+          "fullDescription": "6oz beef patty topped with crispy bacon, cheddar cheese, lettuce, tomato, and mayo on a sesame bun. Served with fries.",
+          "price": 18,
+          "category": "popular",
+          "image": "bacon_burger.jpg",
+          "images": [
+            "/images/bacon_burger.jpg",
+            "/images/bacon_burger-2.jpg",
+            "/images/bacon_burger-3.jpg",
+            "/images/bacon_burger-4.jpg"
+          ],
+          "rating": 4.7,
+          "benefits": [
+            {
+              "title": "Protein Boost",
+              "description": "Beef and bacon provide high protein"
+            },
+            {
+              "title": "Flavor Enhancement",
+              "description": "Bacon adds smoky taste"
+            },
+            {
+              "title": "Iron Rich",
+              "description": "From beef"
+            },
+            {
+              "title": "Satisfying Meal",
+              "description": "Keeps you full"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Emily Carter",
+              "rating": 5,
+              "comment": "Bacon makes it amazing!",
+              "date": "2024-03-10",
+              "images": ["/images/review-bacon-burger-1.jpg"]
+            },
+            {
+              "customerName": "David Brown",
+              "rating": 4,
+              "comment": "Crispy bacon, juicy patty.",
+              "date": "2024-03-15",
+              "images": ["/images/review-bacon-burger-2.jpg"]
+            },
+            {
+              "customerName": "Laura Adams",
+              "rating": 5,
+              "comment": "Best bacon burger!",
+              "date": "2024-04-01",
+              "images": ["/images/review-bacon-burger-3.jpg"]
+            },
+            {
+              "customerName": "Tom Nguyen",
+              "rating": 4,
+              "comment": "Great, more bacon please.",
+              "date": "2024-04-10",
+              "images": ["/images/review-bacon-burger-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "name": "Veggie Burger",
+          "description": "Plant-based patty with lettuce, tomato, and avocado",
+          "fullDescription": "House-made veggie patty with black beans and quinoa, topped with lettuce, tomato, avocado, and vegan mayo on a whole wheat bun. Served with sweet potato fries.",
+          "price": 16,
+          "category": "healthy",
+          "image": "veggie_burger.jpg",
+          "images": [
+            "/images/veggie_burger.jpg",
+            "/images/veggie_burger-2.jpg",
+            "/images/veggie_burger-3.jpg",
+            "/images/veggie_burger-4.jpg"
+          ],
+          "rating": 4.5,
+          "benefits": [
+            {
+              "title": "Plant Protein",
+              "description": "From beans and quinoa"
+            },
+            {
+              "title": "Healthy Fats",
+              "description": "Avocado provides monounsaturated fats"
+            },
+            {
+              "title": "Fiber High",
+              "description": "Supports digestion"
+            },
+            {
+              "title": "Low Cholesterol",
+              "description": "Vegan option"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Rachel Kim",
+              "rating": 5,
+              "comment": "Best veggie burger! So flavorful.",
+              "date": "2024-05-01",
+              "images": ["/images/review-veggie-burger-1.jpg"]
+            },
+            {
+              "customerName": "Mark Thompson",
+              "rating": 4,
+              "comment": "Healthy and tasty.",
+              "date": "2024-05-15",
+              "images": ["/images/review-veggie-burger-2.jpg"]
+            },
+            {
+              "customerName": "Lisa Martinez",
+              "rating": 5,
+              "comment": "Love the avocado!",
+              "date": "2024-06-01",
+              "images": ["/images/review-veggie-burger-3.jpg"]
+            },
+            {
+              "customerName": "Chris Evans",
+              "rating": 4,
+              "comment": "Good alternative to beef.",
+              "date": "2024-06-10",
+              "images": ["/images/review-veggie-burger-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "name": "Mushroom Swiss Burger",
+          "description": "Beef patty with mushrooms, swiss cheese, and onions",
+          "fullDescription": "6oz beef patty topped with sautéed mushrooms, swiss cheese, caramelized onions, and garlic aioli on a brioche bun. Served with fries.",
+          "price": 17,
+          "category": "featured",
+          "image": "mushroom_swiss_burger.jpg",
+          "images": [
+            "/images/mushroom_swiss_burger.jpg",
+            "/images/mushroom_swiss_burger-2.jpg",
+            "/images/mushroom_swiss_burger-3.jpg",
+            "/images/mushroom_swiss_burger-4.jpg"
+          ],
+          "rating": 4.6,
+          "benefits": [
+            {
+              "title": "Antioxidants from Mushrooms",
+              "description": "Supports immunity"
+            },
+            {
+              "title": "Protein Rich",
+              "description": "From beef"
+            },
+            {
+              "title": "Calcium from Swiss",
+              "description": "Bone health"
+            },
+            {
+              "title": "Flavor Depth",
+              "description": "Onions add sweetness"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Sophie Nguyen",
+              "rating": 5,
+              "comment": "Mushrooms are perfect!",
+              "date": "2024-07-01",
+              "images": ["/images/review-mushroom-swiss-1.jpg"]
+            },
+            {
+              "customerName": "Liam Patel",
+              "rating": 4,
+              "comment": "Great combo of flavors.",
+              "date": "2024-07-15",
+              "images": ["/images/review-mushroom-swiss-2.jpg"]
+            },
+            {
+              "customerName": "Emma Wilson",
+              "rating": 5,
+              "comment": "Love the swiss cheese melt.",
+              "date": "2024-08-01",
+              "images": ["/images/review-mushroom-swiss-3.jpg"]
+            },
+            {
+              "customerName": "David Brown",
+              "rating": 4,
+              "comment": "Tasty burger.",
+              "date": "2024-08-10",
+              "images": ["/images/review-mushroom-swiss-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "name": "Spicy Jalapeño Burger",
+          "description": "Beef patty with jalapeños, pepper jack cheese, and chipotle mayo",
+          "fullDescription": "6oz beef patty with sliced jalapeños, pepper jack cheese, lettuce, and chipotle mayo on a bun. Served with fries.",
+          "price": 18,
+          "category": "regular",
+          "image": "spicy_jalapeno_burger.jpg",
+          "images": [
+            "/images/spicy_jalapeno_burger.jpg",
+            "/images/spicy_jalapeno_burger-2.jpg",
+            "/images/spicy_jalapeno_burger-3.jpg",
+            "/images/spicy_jalapeno_burger-4.jpg"
+          ],
+          "rating": 4.5,
+          "benefits": [
+            {
+              "title": "Metabolism Boost",
+              "description": "From jalapeños"
+            },
+            {
+              "title": "Protein",
+              "description": "From beef"
+            },
+            {
+              "title": "Vitamin C",
+              "description": "From peppers"
+            },
+            {
+              "title": "Spicy Satisfaction",
+              "description": "Enhances flavor"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Hannah Lee",
+              "rating": 5,
+              "comment": "Perfect spice level!",
+              "date": "2024-09-01",
+              "images": ["/images/review-spicy-jalapeno-1.jpg"]
+            },
+            {
+              "customerName": "Michael Brown",
+              "rating": 4,
+              "comment": "Good kick of heat.",
+              "date": "2024-09-10",
+              "images": ["/images/review-spicy-jalapeno-2.jpg"]
+            },
+            {
+              "customerName": "Olivia Chen",
+              "rating": 5,
+              "comment": "Love the chipotle mayo.",
+              "date": "2024-09-15",
+              "images": ["/images/review-spicy-jalapeno-3.jpg"]
+            },
+            {
+              "customerName": "Ethan Davis",
+              "rating": 4,
+              "comment": "Spicy but enjoyable.",
+              "date": "2024-09-20",
+              "images": ["/images/review-spicy-jalapeno-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "name": "Turkey Burger",
+          "description": "Turkey patty with lettuce, tomato, and cranberry sauce",
+          "fullDescription": "Lean turkey patty grilled, topped with lettuce, tomato, and cranberry sauce on a whole wheat bun. Served with side salad.",
+          "price": 16,
+          "category": "healthy",
+          "image": "turkey_burger.jpg",
+          "images": [
+            "/images/turkey_burger.jpg",
+            "/images/turkey_burger-2.jpg",
+            "/images/turkey_burger-3.jpg",
+            "/images/turkey_burger-4.jpg"
+          ],
+          "rating": 4.4,
+          "benefits": [
+            {
+              "title": "Lean Protein",
+              "description": "Low fat turkey"
+            },
+            {
+              "title": "Antioxidants from Cranberry",
+              "description": "Supports urinary health"
+            },
+            {
+              "title": "Fiber from Bun",
+              "description": "Whole wheat for digestion"
+            },
+            {
+              "title": "Lower Calories",
+              "description": "Healthier alternative"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Carlos Rivera",
+              "rating": 5,
+              "comment": "Great twist with cranberry!",
+              "date": "2024-10-01",
+              "images": ["/images/review-turkey-burger-1.jpg"]
+            },
+            {
+              "customerName": "Megan White",
+              "rating": 4,
+              "comment": "Healthy and flavorful.",
+              "date": "2024-10-05",
+              "images": ["/images/review-turkey-burger-2.jpg"]
+            },
+            {
+              "customerName": "Noah Patel",
+              "rating": 5,
+              "comment": "Love this turkey burger.",
+              "date": "2024-10-10",
+              "images": ["/images/review-turkey-burger-3.jpg"]
+            },
+            {
+              "customerName": "Isabella Kim",
+              "rating": 4,
+              "comment": "Good, more sauce next time.",
+              "date": "2024-10-15",
+              "images": ["/images/review-turkey-burger-4.jpg"]
             }
           ]
         }
@@ -384,7 +1993,348 @@
               "rating": 5,
               "comment": "The freshest orange juice I've ever tasted! You can really taste the difference from store-bought.",
               "date": "2024-01-25",
-              "images": []
+              "images": ["/images/review-orange-juice-1.jpg"]
+            },
+            {
+              "customerName": "Ethan Chen",
+              "rating": 4,
+              "comment": "Really refreshing. Perfect for breakfast!",
+              "date": "2024-02-05",
+              "images": ["/images/review-orange-juice-2.jpg"]
+            },
+            {
+              "customerName": "Olivia Patel",
+              "rating": 5,
+              "comment": "So fresh and tangy! My go-to drink.",
+              "date": "2024-02-20",
+              "images": ["/images/review-orange-juice-3.jpg"]
+            },
+            {
+              "customerName": "Mason Kim",
+              "rating": 4,
+              "comment": "Great juice, though I’d prefer it less icy.",
+              "date": "2024-03-01",
+              "images": ["/images/review-orange-juice-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "name": "Iced Coffee",
+          "description": "Chilled coffee with milk and sugar option",
+          "fullDescription": "Freshly brewed coffee chilled and served over ice, with option for milk and sugar. Made from premium arabica beans.",
+          "price": 5,
+          "category": "regular",
+          "image": "iced_coffee.jpg",
+          "images": [
+            "/images/iced_coffee.jpg",
+            "/images/iced_coffee-2.jpg",
+            "/images/iced_coffee-3.jpg",
+            "/images/iced_coffee-4.jpg"
+          ],
+          "rating": 4.6,
+          "benefits": [
+            {
+              "title": "Antioxidants",
+              "description": "Coffee provides antioxidants"
+            },
+            {
+              "title": "Energy Boost",
+              "description": "Caffeine for alertness"
+            },
+            {
+              "title": "Calcium from Milk",
+              "description": "If added"
+            },
+            {
+              "title": "Refreshing",
+              "description": "Perfect for warm days"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Steve Johnson",
+              "rating": 5,
+              "comment": "Best iced coffee! Strong and smooth.",
+              "date": "2024-03-05",
+              "images": ["/images/review-iced-coffee-1.jpg"]
+            },
+            {
+              "customerName": "Ava Kim",
+              "rating": 4,
+              "comment": "Refreshing, good with milk.",
+              "date": "2024-03-15",
+              "images": ["/images/review-iced-coffee-2.jpg"]
+            },
+            {
+              "customerName": "Lucas Patel",
+              "rating": 5,
+              "comment": "Perfect pick-me-up!",
+              "date": "2024-04-01",
+              "images": ["/images/review-iced-coffee-3.jpg"]
+            },
+            {
+              "customerName": "Sophia Chen",
+              "rating": 4,
+              "comment": "Good, less ice next time.",
+              "date": "2024-04-10",
+              "images": ["/images/review-iced-coffee-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 63,
+          "name": "Strawberry Smoothie",
+          "description": "Blended strawberries, yogurt, and honey",
+          "fullDescription": "Fresh strawberries blended with yogurt and honey for a creamy, sweet smoothie. Served chilled.",
+          "price": 7,
+          "category": "healthy",
+          "image": "strawberry_smoothie.jpg",
+          "images": [
+            "/images/strawberry_smoothie.jpg",
+            "/images/strawberry_smoothie-2.jpg",
+            "/images/strawberry_smoothie-3.jpg",
+            "/images/strawberry_smoothie-4.jpg"
+          ],
+          "rating": 4.7,
+          "benefits": [
+            {
+              "title": "Vitamin C Rich",
+              "description": "From strawberries"
+            },
+            {
+              "title": "Probiotics from Yogurt",
+              "description": "Gut health"
+            },
+            {
+              "title": "Natural Sweetness",
+              "description": "From honey"
+            },
+            {
+              "title": "Hydrating",
+              "description": "Refreshing drink"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Olivia Chen",
+              "rating": 5,
+              "comment": "Sweet and creamy! Love it.",
+              "date": "2024-05-01",
+              "images": ["/images/review-strawberry-smoothie-1.jpg"]
+            },
+            {
+              "customerName": "Ethan Kim",
+              "rating": 4,
+              "comment": "Healthy and tasty.",
+              "date": "2024-05-15",
+              "images": ["/images/review-strawberry-smoothie-2.jpg"]
+            },
+            {
+              "customerName": "Ava Patel",
+              "rating": 5,
+              "comment": "Perfect smoothie!",
+              "date": "2024-06-01",
+              "images": ["/images/review-strawberry-smoothie-3.jpg"]
+            },
+            {
+              "customerName": "Mason Lee",
+              "rating": 4,
+              "comment": "Good, more strawberries.",
+              "date": "2024-06-10",
+              "images": ["/images/review-strawberry-smoothie-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "name": "Lemonade",
+          "description": "Fresh squeezed lemons with sugar and water",
+          "fullDescription": "House-made lemonade with fresh lemons, sugar, and sparkling water option. Served over ice.",
+          "price": 5,
+          "category": "popular",
+          "image": "lemonade.jpg",
+          "images": [
+            "/images/lemonade.jpg",
+            "/images/lemonade-2.jpg",
+            "/images/lemonade-3.jpg",
+            "/images/lemonade-4.jpg"
+          ],
+          "rating": 4.5,
+          "benefits": [
+            {
+              "title": "Vitamin C",
+              "description": "Immune boost"
+            },
+            {
+              "title": "Hydration",
+              "description": "Refreshing"
+            },
+            {
+              "title": "Detox",
+              "description": "Lemon aids digestion"
+            },
+            {
+              "title": "Low Calorie",
+              "description": "Light drink"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Isabella Kim",
+              "rating": 5,
+              "comment": "Tangy and sweet! Perfect.",
+              "date": "2024-07-01",
+              "images": ["/images/review-lemonade-1.jpg"]
+            },
+            {
+              "customerName": "Lucas Brown",
+              "rating": 4,
+              "comment": "Refreshing lemonade.",
+              "date": "2024-07-15",
+              "images": ["/images/review-lemonade-2.jpg"]
+            },
+            {
+              "customerName": "Mia Davis",
+              "rating": 5,
+              "comment": "Best homemade lemonade!",
+              "date": "2024-08-01",
+              "images": ["/images/review-lemonade-3.jpg"]
+            },
+            {
+              "customerName": "Noah Chen",
+              "rating": 4,
+              "comment": "Good, less sugar.",
+              "date": "2024-08-10",
+              "images": ["/images/review-lemonade-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 65,
+          "name": "Green Tea",
+          "description": "Hot or iced green tea",
+          "fullDescription": "Premium green tea leaves brewed fresh, served hot or iced. Rich in antioxidants.",
+          "price": 4,
+          "category": "healthy",
+          "image": "green_tea.jpg",
+          "images": [
+            "/images/green_tea.jpg",
+            "/images/green_tea-2.jpg",
+            "/images/green_tea-3.jpg",
+            "/images/green_tea-4.jpg"
+          ],
+          "rating": 4.4,
+          "benefits": [
+            {
+              "title": "Antioxidants",
+              "description": "EGCG for health"
+            },
+            {
+              "title": "Metabolism Boost",
+              "description": "Aids weight management"
+            },
+            {
+              "title": "Calming",
+              "description": "L-theanine for relaxation"
+            },
+            {
+              "title": "Low Caffeine",
+              "description": "Gentle energy"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Sophia Lee",
+              "rating": 5,
+              "comment": "Soothing and fresh!",
+              "date": "2024-09-01",
+              "images": ["/images/review-green-tea-1.jpg"]
+            },
+            {
+              "customerName": "Ethan Patel",
+              "rating": 4,
+              "comment": "Healthy choice.",
+              "date": "2024-09-10",
+              "images": ["/images/review-green-tea-2.jpg"]
+            },
+            {
+              "customerName": "Ava Kim",
+              "rating": 5,
+              "comment": "Love iced version.",
+              "date": "2024-09-15",
+              "images": ["/images/review-green-tea-3.jpg"]
+            },
+            {
+              "customerName": "Mason Chen",
+              "rating": 4,
+              "comment": "Good tea.",
+              "date": "2024-09-20",
+              "images": ["/images/review-green-tea-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "name": "Mojito",
+          "description": "Mint, lime, rum, sugar, and soda",
+          "fullDescription": "Classic mojito with fresh mint, lime, white rum, sugar, and soda water. Served over ice with lime garnish.",
+          "price": 8,
+          "category": "featured",
+          "image": "mojito.jpg",
+          "images": [
+            "/images/mojito.jpg",
+            "/images/mojito-2.jpg",
+            "/images/mojito-3.jpg",
+            "/images/mojito-4.jpg"
+          ],
+          "rating": 4.8,
+          "benefits": [
+            {
+              "title": "Refreshing Mint",
+              "description": "Aids digestion"
+            },
+            {
+              "title": "Vitamin C from Lime",
+              "description": "Immune support"
+            },
+            {
+              "title": "Hydrating",
+              "description": "Soda water base"
+            },
+            {
+              "title": "Mood Lift",
+              "description": "Cocktail enjoyment"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Lucas Kim",
+              "rating": 5,
+              "comment": "Perfect summer drink!",
+              "date": "2024-10-01",
+              "images": ["/images/review-mojito-1.jpg"]
+            },
+            {
+              "customerName": "Mia Patel",
+              "rating": 4,
+              "comment": "Fresh and minty.",
+              "date": "2024-10-05",
+              "images": ["/images/review-mojito-2.jpg"]
+            },
+            {
+              "customerName": "Noah Lee",
+              "rating": 5,
+              "comment": "Best mojito ever.",
+              "date": "2024-10-10",
+              "images": ["/images/review-mojito-3.jpg"]
+            },
+            {
+              "customerName": "Isabella Chen",
+              "rating": 4,
+              "comment": "Good balance.",
+              "date": "2024-10-15",
+              "images": ["/images/review-mojito-4.jpg"]
             }
           ]
         }
@@ -420,6 +2370,10 @@
             {
               "title": "Energy Boost",
               "description": "Natural sugars provide quick energy, while the richness ensures satisfaction in smaller portions"
+            },
+            {
+              "title": "Calcium from Ice Cream",
+              "description": "Vanilla ice cream adds calcium for bone health"
             }
           ],
           "reviews": [
@@ -429,6 +2383,347 @@
               "comment": "Absolutely divine! Rich, moist, and not too sweet. Perfect way to end a meal.",
               "date": "2024-01-26",
               "images": ["/images/review-chocolate-cake-1.jpg"]
+            },
+            {
+              "customerName": "Lucas Patel",
+              "rating": 4,
+              "comment": "Great cake, love the ganache filling!",
+              "date": "2024-02-10",
+              "images": ["/images/review-chocolate-cake-2.jpg"]
+            },
+            {
+              "customerName": "Ava Chen",
+              "rating": 5,
+              "comment": "Perfect dessert. The ice cream pairs so well!",
+              "date": "2024-02-25",
+              "images": ["/images/review-chocolate-cake-3.jpg"]
+            },
+            {
+              "customerName": "Noah Lee",
+              "rating": 4,
+              "comment": "Really rich and tasty. A bit heavy for me.",
+              "date": "2024-03-05",
+              "images": ["/images/review-chocolate-cake-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 74,
+          "name": "Cheesecake",
+          "description": "Creamy cheesecake with graham cracker crust",
+          "fullDescription": "Smooth and creamy New York-style cheesecake on a graham cracker crust, topped with fresh berry sauce.",
+          "price": 10,
+          "category": "popular",
+          "image": "cheesecake.jpg",
+          "images": [
+            "/images/cheesecake.jpg",
+            "/images/cheesecake-2.jpg",
+            "/images/cheesecake-3.jpg",
+            "/images/cheesecake-4.jpg"
+          ],
+          "rating": 4.7,
+          "benefits": [
+            {
+              "title": "Calcium Rich",
+              "description": "From cream cheese"
+            },
+            {
+              "title": "Antioxidants from Berries",
+              "description": "Supports health"
+            },
+            {
+              "title": "Satisfying Texture",
+              "description": "Creamy and crunchy crust"
+            },
+            {
+              "title": "Mood Boost",
+              "description": "Indulgent treat"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Emily Carter",
+              "rating": 5,
+              "comment": "Creamy perfection!",
+              "date": "2024-03-10",
+              "images": ["/images/review-cheesecake-1.jpg"]
+            },
+            {
+              "customerName": "David Brown",
+              "rating": 4,
+              "comment": "Great berry topping.",
+              "date": "2024-03-15",
+              "images": ["/images/review-cheesecake-2.jpg"]
+            },
+            {
+              "customerName": "Laura Adams",
+              "rating": 5,
+              "comment": "Best cheesecake ever.",
+              "date": "2024-04-01",
+              "images": ["/images/review-cheesecake-3.jpg"]
+            },
+            {
+              "customerName": "Tom Nguyen",
+              "rating": 4,
+              "comment": "Delicious, rich flavor.",
+              "date": "2024-04-10",
+              "images": ["/images/review-cheesecake-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 75,
+          "name": "Apple Pie",
+          "description": "Classic apple pie with cinnamon and flaky crust",
+          "fullDescription": "Fresh apples baked with cinnamon in a flaky pastry crust, served warm with vanilla ice cream.",
+          "price": 8,
+          "category": "regular",
+          "image": "apple_pie.jpg",
+          "images": [
+            "/images/apple_pie.jpg",
+            "/images/apple_pie-2.jpg",
+            "/images/apple_pie-3.jpg",
+            "/images/apple_pie-4.jpg"
+          ],
+          "rating": 4.6,
+          "benefits": [
+            {
+              "title": "Fiber from Apples",
+              "description": "Aids digestion"
+            },
+            {
+              "title": "Antioxidants",
+              "description": "From cinnamon"
+            },
+            {
+              "title": "Comfort Food",
+              "description": "Mood enhancer"
+            },
+            {
+              "title": "Vitamin C",
+              "description": "From apples"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Rachel Kim",
+              "rating": 5,
+              "comment": "Classic and delicious!",
+              "date": "2024-05-01",
+              "images": ["/images/review-apple-pie-1.jpg"]
+            },
+            {
+              "customerName": "Mark Thompson",
+              "rating": 4,
+              "comment": "Flaky crust, good apples.",
+              "date": "2024-05-15",
+              "images": ["/images/review-apple-pie-2.jpg"]
+            },
+            {
+              "customerName": "Lisa Martinez",
+              "rating": 5,
+              "comment": "Perfect with ice cream.",
+              "date": "2024-06-01",
+              "images": ["/images/review-apple-pie-3.jpg"]
+            },
+            {
+              "customerName": "Chris Evans",
+              "rating": 4,
+              "comment": "Tasty pie.",
+              "date": "2024-06-10",
+              "images": ["/images/review-apple-pie-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 76,
+          "name": "Tiramisu",
+          "description": "Layered coffee-soaked ladyfingers with mascarpone cream",
+          "fullDescription": "Italian classic with espresso-soaked ladyfingers, mascarpone cream, and cocoa dusting.",
+          "price": 11,
+          "category": "featured",
+          "image": "tiramisu.jpg",
+          "images": [
+            "/images/tiramisu.jpg",
+            "/images/tiramisu-2.jpg",
+            "/images/tiramisu-3.jpg",
+            "/images/tiramisu-4.jpg"
+          ],
+          "rating": 4.8,
+          "benefits": [
+            {
+              "title": "Energy from Coffee",
+              "description": "Caffeine boost"
+            },
+            {
+              "title": "Calcium from Cream",
+              "description": "Bone health"
+            },
+            {
+              "title": "Indulgent",
+              "description": "Mood lift"
+            },
+            {
+              "title": "Antioxidants",
+              "description": "From cocoa"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Sophie Nguyen",
+              "rating": 5,
+              "comment": "Authentic and creamy!",
+              "date": "2024-07-01",
+              "images": ["/images/review-tiramisu-1.jpg"]
+            },
+            {
+              "customerName": "Liam Patel",
+              "rating": 4,
+              "comment": "Great coffee flavor.",
+              "date": "2024-07-15",
+              "images": ["/images/review-tiramisu-2.jpg"]
+            },
+            {
+              "customerName": "Emma Wilson",
+              "rating": 5,
+              "comment": "Best tiramisu.",
+              "date": "2024-08-01",
+              "images": ["/images/review-tiramisu-3.jpg"]
+            },
+            {
+              "customerName": "David Brown",
+              "rating": 4,
+              "comment": "Delicious dessert.",
+              "date": "2024-08-10",
+              "images": ["/images/review-tiramisu-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 77,
+          "name": "Lemon Tart",
+          "description": "Tart lemon curd in a pastry shell",
+          "fullDescription": "Zesty lemon curd in a buttery pastry shell, topped with meringue or powdered sugar.",
+          "price": 9,
+          "category": "healthy",
+          "image": "lemon_tart.jpg",
+          "images": [
+            "/images/lemon_tart.jpg",
+            "/images/lemon_tart-2.jpg",
+            "/images/lemon_tart-3.jpg",
+            "/images/lemon_tart-4.jpg"
+          ],
+          "rating": 4.5,
+          "benefits": [
+            {
+              "title": "Vitamin C",
+              "description": "From lemons"
+            },
+            {
+              "title": "Low Sugar Option",
+              "description": "Tart flavor"
+            },
+            {
+              "title": "Refreshing",
+              "description": "Light dessert"
+            },
+            {
+              "title": "Digestive Aid",
+              "description": "Lemon helps digestion"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Hannah Lee",
+              "rating": 5,
+              "comment": "Zesty and perfect!",
+              "date": "2024-09-01",
+              "images": ["/images/review-lemon-tart-1.jpg"]
+            },
+            {
+              "customerName": "Michael Brown",
+              "rating": 4,
+              "comment": "Nice tartness.",
+              "date": "2024-09-10",
+              "images": ["/images/review-lemon-tart-2.jpg"]
+            },
+            {
+              "customerName": "Olivia Chen",
+              "rating": 5,
+              "comment": "Love the curd.",
+              "date": "2024-09-15",
+              "images": ["/images/review-lemon-tart-3.jpg"]
+            },
+            {
+              "customerName": "Ethan Davis",
+              "rating": 4,
+              "comment": "Good light dessert.",
+              "date": "2024-09-20",
+              "images": ["/images/review-lemon-tart-4.jpg"]
+            }
+          ]
+        },
+        {
+          "id": 78,
+          "name": "Crème Brûlée",
+          "description": "Custard with caramelized sugar top",
+          "fullDescription": "Rich vanilla custard with a caramelized sugar crust, served chilled.",
+          "price": 10,
+          "category": "popular",
+          "image": "creme_brulee.jpg",
+          "images": [
+            "/images/creme_brulee.jpg",
+            "/images/creme_brulee-2.jpg",
+            "/images/creme_brulee-3.jpg",
+            "/images/creme_brulee-4.jpg"
+          ],
+          "rating": 4.9,
+          "benefits": [
+            {
+              "title": "Calcium from Custard",
+              "description": "Bone health"
+            },
+            {
+              "title": "Indulgent Texture",
+              "description": "Creamy with crunch"
+            },
+            {
+              "title": "Vanilla Benefits",
+              "description": "Calming aroma"
+            },
+            {
+              "title": "Satisfying Portion",
+              "description": "Rich treat"
+            }
+          ],
+          "reviews": [
+            {
+              "customerName": "Carlos Rivera",
+              "rating": 5,
+              "comment": "Perfect caramel crust!",
+              "date": "2024-10-01",
+              "images": ["/images/review-creme-brulee-1.jpg"]
+            },
+            {
+              "customerName": "Megan White",
+              "rating": 4,
+              "comment": "Rich and creamy.",
+              "date": "2024-10-05",
+              "images": ["/images/review-creme-brulee-2.jpg"]
+            },
+            {
+              "customerName": "Noah Patel",
+              "rating": 5,
+              "comment": "Best crème brûlée.",
+              "date": "2024-10-10",
+              "images": ["/images/review-creme-brulee-3.jpg"]
+            },
+            {
+              "customerName": "Isabella Kim",
+              "rating": 4,
+              "comment": "Delicious dessert.",
+              "date": "2024-10-15",
+              "images": ["/images/review-creme-brulee-4.jpg"]
             }
           ]
         }
@@ -438,10 +2733,42 @@
   "categories": {
     "popular": {
       "name": "Popular Items",
-      "description": "Customer favorites and best sellers"
+      "description": "Customer favorites and best sellers",
+      "items": [
+        {
+          "id": 1,
+          "name": "Classic Pancakes",
+          "menu": "breakfast"
+        },
+        {
+          "id": 13,
+          "name": "Caesar Salad",
+          "menu": "lunch"
+        },
+        {
+          "id": 25,
+          "name": "Ribeye Steak",
+          "menu": "dinner"
+        },
+        {
+          "id": 38,
+          "name": "Pepperoni Pizza",
+          "menu": "pizza"
+        },
+        {
+          "id": 50,
+          "name": "Bacon Burger",
+          "menu": "burger"
+        },
+        {
+          "id": 64,
+          "name": "Lemonade",
+          "menu": "drinks"
+        }
+      ]
     },
     "featured": {
-      "name": "Featured Items", 
+      "name": "Featured Items",
       "description": "Chef's special recommendations"
     },
     "regular": {
@@ -455,7 +2782,7 @@
   },
   "menu_types": [
     "breakfast",
-    "lunch", 
+    "lunch",
     "dinner",
     "pizza",
     "burger",

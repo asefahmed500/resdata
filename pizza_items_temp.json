@@ -1,0 +1,50 @@
+[
+  {
+    "id": 85,
+    "name": "Meat Lovers Pizza",
+    "description": "Loaded with pepperoni, sausage, bacon, and ham",
+    "fullDescription": "Ultimate meat lovers pizza with pepperoni, Italian sausage, crispy bacon, and Canadian ham on mozzarella cheese.",
+    "price": 24,
+    "category": "pizza",
+    "image": "meat_lovers_pizza.jpg",
+    "images": [
+      "/images/meat_lovers_pizza.jpg",
+      "/images/meat_lovers_pizza-2.jpg",
+      "/images/meat_lovers_pizza-3.jpg",
+      "/images/meat_lovers_pizza-4.jpg"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": 86,
+    "name": "Veggie Deluxe Pizza",
+    "description": "Fresh vegetables with mushrooms, peppers, and olives",
+    "fullDescription": "Garden fresh pizza with mushrooms, bell peppers, red onions, black olives, tomatoes, and fresh basil.",
+    "price": 19,
+    "category": "pizza",
+    "image": "veggie_deluxe_pizza.jpg",
+    "images": [
+      "/images/veggie_deluxe_pizza.jpg",
+      "/images/veggie_deluxe_pizza-2.jpg",
+      "/images/veggie_deluxe_pizza-3.jpg",
+      "/images/veggie_deluxe_pizza-4.jpg"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 87,
+    "name": "BBQ Chicken Pizza",
+    "description": "Grilled chicken with BBQ sauce and red onions",
+    "fullDescription": "Tender grilled chicken with tangy BBQ sauce, red onions, cilantro, and mozzarella cheese.",
+    "price": 21,
+    "category": "pizza",
+    "image": "bbq_chicken_pizza.jpg",
+    "images": [
+      "/images/bbq_chicken_pizza.jpg",
+      "/images/bbq_chicken_pizza-2.jpg",
+      "/images/bbq_chicken_pizza-3.jpg",
+      "/images/bbq_chicken_pizza-4.jpg"
+    ],
+    "rating": 4.6
+  }
+]
