@@ -10,12 +10,12 @@
           "fullDescription": "Our signature pancakes are made with a secret blend of flour and buttermilk, creating the fluffiest texture you've ever experienced. Served with real Vermont maple syrup, fresh butter, and a dusting of powdered sugar. Each stack comes with three generous pancakes that are golden brown and perfectly cooked.",
           "price": 12,
           "category": "popular",
-          "image": "pancakes.jpg",
+          "image": "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
           "images": [
-            "/images/pancakes.jpg",
-            "/images/pancakes-2.jpg",
-            "/images/pancakes-3.jpg",
-            "/images/pancakes-4.jpg"
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.5,
           "benefits": [
@@ -43,8 +43,8 @@
               "comment": "Absolutely the best pancakes I've ever had! Fluffy, delicious, and the maple syrup is real quality.",
               "date": "2024-01-15",
               "images": [
-                "/images/review-pancakes-1.jpg",
-                "/images/review-pancakes-2.jpg"
+                "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png",
+                "https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"
               ]
             },
             {
@@ -52,21 +52,21 @@
               "rating": 4,
               "comment": "Great texture and taste. Portion size is generous. Will definitely come back!",
               "date": "2024-01-12",
-              "images": ["/images/review-pancakes-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Emily Carter",
               "rating": 5,
               "comment": "Perfect breakfast treat! The pancakes are so light and the syrup is divine.",
               "date": "2024-02-10",
-              "images": ["/images/review-pancakes-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             },
             {
               "customerName": "James Lee",
               "rating": 4,
               "comment": "Really enjoyed these pancakes. Great with extra berries on top!",
               "date": "2024-03-05",
-              "images": ["/images/review-pancakes-5.jpg"]
+              "images": ["https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png"]
             }
           ]
         },
@@ -77,12 +77,12 @@
           "fullDescription": "Fresh, ripe avocados are smashed to perfection and seasoned with lime juice, sea salt, and cracked black pepper. Served on our house-made sourdough bread, toasted to golden perfection. Topped with a perfectly poached egg with a runny yolk that creates a creamy sauce when broken.",
           "price": 15,
           "category": "popular",
-          "image": "avocado_toast.jpg",
+          "image": "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
           "images": [
-            "/images/avocado_toast.jpg",
-            "/images/avocado_toast-2.jpg",
-            "/images/avocado_toast-3.jpg",
-            "/images/avocado_toast-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
+            "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"
           ],
           "rating": 4.7,
           "benefits": [
@@ -109,28 +109,28 @@
               "rating": 5,
               "comment": "Perfect combination of flavors! The sourdough is amazing and the avocado is always perfectly ripe.",
               "date": "2024-01-18",
-              "images": ["/images/review-avocado-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "David Brown",
               "rating": 4,
               "comment": "Healthy and delicious. Great presentation too!",
               "date": "2024-01-16",
-              "images": ["/images/review-avocado-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Sophie Nguyen",
               "rating": 5,
               "comment": "Best avocado toast ever! The egg is always perfectly poached.",
               "date": "2024-02-15",
-              "images": ["/images/review-avocado-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Liam Patel",
               "rating": 4,
               "comment": "Fresh and flavorful. The lime adds a nice zing!",
               "date": "2024-03-01",
-              "images": ["/images/review-avocado-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -141,12 +141,12 @@
           "fullDescription": "Thick slices of buttery brioche bread are soaked in our signature custard mixture made with farm-fresh eggs, cream, vanilla, and a hint of cinnamon. Cooked to golden perfection and served with our house-made mixed berry compote and a dollop of whipped cream.",
           "price": 14,
           "category": "featured",
-          "image": "french_toast.jpg",
+          "image": "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
           "images": [
-            "/images/french_toast.jpg",
-            "/images/french_toast-2.jpg",
-            "/images/french_toast-3.jpg",
-            "/images/french_toast-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png",
+            "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"
           ],
           "rating": 4.3,
           "benefits": [
@@ -173,28 +173,28 @@
               "rating": 4,
               "comment": "Delicious French toast! The berry compote is the perfect complement.",
               "date": "2024-01-14",
-              "images": ["/images/review-french-toast-1.jpg"]
+              "images": ["https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"]
             },
             {
               "customerName": "Chris Evans",
               "rating": 5,
               "comment": "The best French toast I’ve had! So fluffy and flavorful.",
               "date": "2024-02-20",
-              "images": ["/images/review-french-toast-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Rachel Kim",
               "rating": 4,
               "comment": "Loved the cinnamon flavor and the berries were fresh!",
               "date": "2024-03-10",
-              "images": ["/images/review-french-toast-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Mark Thompson",
               "rating": 5,
               "comment": "Perfect breakfast indulgence. The whipped cream is a great touch.",
               "date": "2024-04-01",
-              "images": ["/images/review-french-toast-4.jpg"]
+              "images": ["https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png"]
             }
           ]
         },
@@ -205,12 +205,12 @@
           "fullDescription": "Two perfectly poached eggs served atop a toasted English muffin with Canadian bacon, finished with a rich, creamy hollandaise sauce made with fresh egg yolks and lemon. Accompanied by roasted potatoes and a side of mixed greens.",
           "price": 16,
           "category": "popular",
-          "image": "eggs_benedict.jpg",
+          "image": "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
           "images": [
-            "/images/eggs_benedict.jpg",
-            "/images/eggs_benedict-2.jpg",
-            "/images/eggs_benedict-3.jpg",
-            "/images/eggs_benedict-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"
           ],
           "rating": 4.6,
           "benefits": [
@@ -237,28 +237,28 @@
               "rating": 5,
               "comment": "The hollandaise is perfection! Eggs cooked just right.",
               "date": "2024-05-01",
-              "images": ["/images/review-eggs-benedict-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Tom Nguyen",
               "rating": 4,
               "comment": "Great dish, love the creamy sauce and crispy muffin.",
               "date": "2024-05-15",
-              "images": ["/images/review-eggs-benedict-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Sophia Patel",
               "rating": 5,
               "comment": "Best Eggs Benedict I’ve had! The potatoes are a great side.",
               "date": "2024-06-01",
-              "images": ["/images/review-eggs-benedict-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Daniel Kim",
               "rating": 4,
               "comment": "Very flavorful, though I’d prefer a bit more bacon.",
               "date": "2024-06-10",
-              "images": ["/images/review-eggs-benedict-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -269,12 +269,12 @@
           "fullDescription": "A fluffy three-egg omelette filled with fresh spinach, cherry tomatoes, red onions, and crumbled feta cheese. Served with a side of toasted sourdough and a mixed berry fruit cup for a balanced start to your day.",
           "price": 13,
           "category": "healthy",
-          "image": "veggie_omelette.jpg",
+          "image": "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png",
           "images": [
-            "/images/veggie_omelette.jpg",
-            "/images/veggie_omelette-2.jpg",
-            "/images/veggie_omelette-3.jpg",
-            "/images/veggie_omelette-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"
           ],
           "rating": 4.4,
           "benefits": [
@@ -301,28 +301,28 @@
               "rating": 5,
               "comment": "So fresh and flavorful! The feta adds a great tang.",
               "date": "2024-07-01",
-              "images": ["/images/review-veggie-omelette-1.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Michael Brown",
               "rating": 4,
               "comment": "Healthy and delicious. The fruit cup is a nice touch.",
               "date": "2024-07-15",
-              "images": ["/images/review-veggie-omelette-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Olivia Chen",
               "rating": 5,
               "comment": "Perfect for a light breakfast. Veggies are super fresh!",
               "date": "2024-08-01",
-              "images": ["/images/review-veggie-omelette-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Ethan Davis",
               "rating": 4,
               "comment": "Great omelette, though I’d love more feta next time.",
               "date": "2024-08-10",
-              "images": ["/images/review-veggie-omelette-4.jpg"]
+              "images": ["https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png"]
             }
           ]
         },
@@ -333,12 +333,12 @@
           "fullDescription": "A hearty flour tortilla stuffed with fluffy scrambled eggs, spicy chorizo, melted cheddar cheese, sautéed peppers and onions, and a dollop of house-made salsa. Served with a side of crispy hashbrowns and sour cream.",
           "price": 14,
           "category": "regular",
-          "image": "breakfast_burrito.jpg",
+          "image": "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png",
           "images": [
-            "/images/breakfast_burrito.jpg",
-            "/images/breakfast_burrito-2.jpg",
-            "/images/breakfast_burrito-3.jpg",
-            "/images/breakfast_burrito-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.5,
           "benefits": [
@@ -365,28 +365,28 @@
               "rating": 5,
               "comment": "Amazing burrito! The chorizo has the perfect kick.",
               "date": "2024-09-01",
-              "images": ["/images/review-breakfast-burrito-1.jpg"]
+              "images": ["https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"]
             },
             {
               "customerName": "Megan White",
               "rating": 4,
               "comment": "Really tasty and filling. Salsa is fresh and zesty!",
               "date": "2024-09-10",
-              "images": ["/images/review-breakfast-burrito-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Noah Patel",
               "rating": 5,
               "comment": "Best breakfast burrito in town! Love the hashbrowns.",
               "date": "2024-09-15",
-              "images": ["/images/review-breakfast-burrito-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Isabella Kim",
               "rating": 4,
               "comment": "Great flavors, though a bit spicy for me.",
               "date": "2024-09-20",
-              "images": ["/images/review-breakfast-burrito-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         }
@@ -402,12 +402,12 @@
           "fullDescription": "Fresh, crispy romaine lettuce hearts tossed in our house-made Caesar dressing, made with anchovies, garlic, lemon juice, and aged parmesan. Topped with our signature herb croutons, shaved parmesan, and a sprinkle of freshly cracked black pepper. Optional grilled chicken or shrimp available.",
           "price": 25,
           "category": "popular",
-          "image": "caesar_salad.jpg",
+          "image": "https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png",
           "images": [
-            "/images/caesar_salad.jpg",
-            "/images/caesar_salad-2.jpg",
-            "/images/caesar_salad-3.jpg",
-            "/images/caesar_salad-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"
           ],
           "rating": 4.8,
           "benefits": [
@@ -434,28 +434,28 @@
               "rating": 5,
               "comment": "Best Caesar salad in town! The dressing is perfectly balanced and the croutons are amazing.",
               "date": "2024-01-20",
-              "images": ["/images/review-caesar-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Anna Taylor",
               "rating": 5,
               "comment": "Fresh, crispy, and delicious. The perfect lunch salad!",
               "date": "2024-01-19",
-              "images": ["/images/review-caesar-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Lucas Kim",
               "rating": 4,
               "comment": "Really enjoyed the salad. The chicken add-on was great!",
               "date": "2024-02-25",
-              "images": ["/images/review-caesar-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Mia Chen",
               "rating": 5,
               "comment": "Perfect balance of flavors. The croutons are to die for!",
               "date": "2024-03-15",
-              "images": ["/images/review-caesar-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -466,12 +466,12 @@
           "fullDescription": "Juicy grilled chicken breast marinated in herbs, served on a toasted brioche bun with crisp lettuce, ripe tomatoes, and a creamy garlic aioli. Accompanied by sweet potato fries and a pickle spear.",
           "price": 18,
           "category": "popular",
-          "image": "chicken_sandwich.jpg",
+          "image": "https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png",
           "images": [
-            "/images/chicken_sandwich.jpg",
-            "/images/chicken_sandwich-2.jpg",
-            "/images/chicken_sandwich-3.jpg",
-            "/images/chicken_sandwich-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.7,
           "benefits": [
@@ -498,28 +498,28 @@
               "rating": 5,
               "comment": "Amazing sandwich! The chicken is so tender and flavorful.",
               "date": "2024-04-01",
-              "images": ["/images/review-chicken-sandwich-1.jpg"]
+              "images": ["https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"]
             },
             {
               "customerName": "Liam Brown",
               "rating": 4,
               "comment": "Great lunch option. The sweet potato fries are a hit!",
               "date": "2024-04-15",
-              "images": ["/images/review-chicken-sandwich-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Sophia Lee",
               "rating": 5,
               "comment": "Perfect balance of flavors. Love the aioli!",
               "date": "2024-05-01",
-              "images": ["/images/review-chicken-sandwich-3.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Noah Patel",
               "rating": 4,
               "comment": "Really tasty, though I’d love more sauce next time.",
               "date": "2024-05-10",
-              "images": ["/images/review-chicken-sandwich-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -530,12 +530,12 @@
           "fullDescription": "Nutty quinoa mixed with roasted zucchini, bell peppers, and sweet potatoes, topped with a creamy tahini dressing and a sprinkle of toasted sesame seeds. Served with a side of mixed greens.",
           "price": 16,
           "category": "healthy",
-          "image": "quinoa_bowl.jpg",
+          "image": "https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png",
           "images": [
-            "/images/quinoa_bowl.jpg",
-            "/images/quinoa_bowl-2.jpg",
-            "/images/quinoa_bowl-3.jpg",
-            "/images/quinoa_bowl-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"
           ],
           "rating": 4.5,
           "benefits": [
@@ -562,28 +562,28 @@
               "rating": 5,
               "comment": "So fresh and healthy! The tahini dressing is amazing.",
               "date": "2024-06-01",
-              "images": ["/images/review-quinoa-bowl-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Ethan Kim",
               "rating": 4,
               "comment": "Great light lunch. Veggies were perfectly roasted.",
               "date": "2024-06-15",
-              "images": ["/images/review-quinoa-bowl-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Ava Patel",
               "rating": 5,
               "comment": "Love this bowl! Perfect for a healthy meal.",
               "date": "2024-07-01",
-              "images": ["/images/review-quinoa-bowl-3.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Mason Lee",
               "rating": 4,
               "comment": "Tasty and filling. Would love more dressing!",
               "date": "2024-07-10",
-              "images": ["/images/review-quinoa-bowl-4.jpg"]
+              "images": ["https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png"]
             }
           ]
         },
@@ -594,12 +594,12 @@
           "fullDescription": "Sliced roasted turkey breast, crispy bacon, romaine lettuce, ripe tomatoes, and mayo wrapped in a vibrant spinach tortilla. Served with a side of kettle chips and a pickle.",
           "price": 17,
           "category": "regular",
-          "image": "turkey_club_wrap.jpg",
+          "image": "https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png",
           "images": [
-            "/images/turkey_club_wrap.jpg",
-            "/images/turkey_club_wrap-2.jpg",
-            "/images/turkey_club_wrap-3.jpg",
-            "/images/turkey_club_wrap-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.6,
           "benefits": [
@@ -626,28 +626,28 @@
               "rating": 5,
               "comment": "Perfect wrap! The bacon adds great flavor.",
               "date": "2024-08-01",
-              "images": ["/images/review-turkey-wrap-1.jpg"]
+              "images": ["https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"]
             },
             {
               "customerName": "Lucas Brown",
               "rating": 4,
               "comment": "Really good lunch option. Chips are a nice touch.",
               "date": "2024-08-15",
-              "images": ["/images/review-turkey-wrap-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Mia Davis",
               "rating": 5,
               "comment": "Love the spinach wrap! So fresh and tasty.",
               "date": "2024-09-01",
-              "images": ["/images/review-turkey-wrap-3.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Noah Chen",
               "rating": 4,
               "comment": "Great wrap, though I’d prefer more turkey.",
               "date": "2024-09-10",
-              "images": ["/images/review-turkey-wrap-4.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             }
           ]
         },
@@ -658,12 +658,12 @@
           "fullDescription": "Fresh mozzarella slices, ripe tomatoes, and basil leaves drizzled with balsamic glaze and olive oil, pressed in ciabatta bread until golden and melty. Served with a side of mixed greens.",
           "price": 15,
           "category": "featured",
-          "image": "caprese_panini.jpg",
+          "image": "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
           "images": [
-            "/images/caprese_panini.jpg",
-            "/images/caprese_panini-2.jpg",
-            "/images/caprese_panini-3.jpg",
-            "/images/caprese_panini-4.jpg"
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
+            "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"
           ],
           "rating": 4.5,
           "benefits": [
@@ -690,28 +690,28 @@
               "rating": 5,
               "comment": "So fresh and flavorful! The balsamic glaze is perfect.",
               "date": "2024-09-15",
-              "images": ["/images/review-caprese-panini-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Ethan Patel",
               "rating": 4,
               "comment": "Great panini. Love the melty mozzarella!",
               "date": "2024-09-20",
-              "images": ["/images/review-caprese-panini-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Ava Kim",
               "rating": 5,
               "comment": "Perfect light lunch. The ciabatta is amazing.",
               "date": "2024-09-25",
-              "images": ["/images/review-caprese-panini-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Mason Chen",
               "rating": 4,
               "comment": "Tasty, though I’d add more basil next time.",
               "date": "2024-09-30",
-              "images": ["/images/review-caprese-panini-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -722,12 +722,12 @@
           "fullDescription": "Crispy bacon, crisp romaine lettuce, and juicy tomatoes layered with creamy mayo on toasted sourdough bread. Served with a side of coleslaw and a pickle spear.",
           "price": 14,
           "category": "regular",
-          "image": "blt_sandwich.jpg",
+          "image": "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
           "images": [
-            "/images/blt_sandwich.jpg",
-            "/images/blt_sandwich-2.jpg",
-            "/images/blt_sandwich-3.jpg",
-            "/images/blt_sandwich-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.6,
           "benefits": [
@@ -754,28 +754,28 @@
               "rating": 5,
               "comment": "Classic BLT done right! The bacon is perfectly crispy.",
               "date": "2024-10-01",
-              "images": ["/images/review-blt-sandwich-1.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Mia Patel",
               "rating": 4,
               "comment": "Great sandwich. The sourdough is fantastic!",
               "date": "2024-10-05",
-              "images": ["/images/review-blt-sandwich-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Noah Lee",
               "rating": 5,
               "comment": "Love this BLT! The coleslaw is a great side.",
               "date": "2024-10-10",
-              "images": ["/images/review-blt-sandwich-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Isabella Chen",
               "rating": 4,
               "comment": "Tasty and fresh. Could use more bacon.",
               "date": "2024-10-15",
-              "images": ["/images/review-blt-sandwich-4.jpg"]
+              "images": ["https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png"]
             }
           ]
         }
@@ -791,12 +791,12 @@
           "fullDescription": "A perfectly marbled 12oz ribeye steak, aged for 28 days for maximum tenderness and flavor. Grilled to your preference and finished with herb butter. Served with our signature garlic mashed potatoes made with Yukon Gold potatoes, roasted garlic, and cream, alongside seasonal grilled vegetables.",
           "price": 42,
           "category": "popular",
-          "image": "ribeye_steak.jpg",
+          "image": "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
           "images": [
-            "/images/ribeye_steak.jpg",
-            "/images/ribeye_steak-2.jpg",
-            "/images/ribeye_steak-3.jpg",
-            "/images/ribeye_steak-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.9,
           "benefits": [
@@ -824,8 +824,8 @@
               "comment": "Absolutely perfect steak! Cooked exactly as requested and incredibly tender. The mashed potatoes are heavenly.",
               "date": "2024-01-22",
               "images": [
-                "/images/review-ribeye-1.jpg",
-                "/images/review-ribeye-2.jpg"
+                "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png",
+                "https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"
               ]
             },
             {
@@ -833,21 +833,21 @@
               "rating": 5,
               "comment": "Best steak I've had in years! Worth every penny. The seasoning is perfect.",
               "date": "2024-01-21",
-              "images": ["/images/review-ribeye-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "James Patel",
               "rating": 4,
               "comment": "Fantastic steak, though I’d prefer more veggies.",
               "date": "2024-02-01",
-              "images": ["/images/review-ribeye-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             },
             {
               "customerName": "Sophie Lee",
               "rating": 5,
               "comment": "Melt-in-your-mouth delicious! The potatoes are amazing.",
               "date": "2024-02-15",
-              "images": ["/images/review-ribeye-5.jpg"]
+              "images": ["https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png"]
             }
           ]
         },
@@ -858,12 +858,12 @@
           "fullDescription": "Fresh Atlantic salmon fillet grilled to perfection with a light lemon herb sauce. Served with grilled asparagus and quinoa pilaf for a balanced and flavorful meal.",
           "price": 35,
           "category": "healthy",
-          "image": "grilled_salmon.jpg",
+          "image": "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
           "images": [
-            "/images/grilled_salmon.jpg",
-            "/images/grilled_salmon-2.jpg",
-            "/images/grilled_salmon-3.jpg",
-            "/images/grilled_salmon-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"
           ],
           "rating": 4.8,
           "benefits": [
@@ -890,28 +890,28 @@
               "rating": 5,
               "comment": "The salmon was perfectly cooked and the sauce was delightful.",
               "date": "2024-03-01",
-              "images": ["/images/review-grilled-salmon-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "David Brown",
               "rating": 4,
               "comment": "Healthy and tasty. Asparagus was fresh!",
               "date": "2024-03-15",
-              "images": ["/images/review-grilled-salmon-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Laura Adams",
               "rating": 5,
               "comment": "Best salmon I've had. Quinoa was a great side.",
               "date": "2024-04-01",
-              "images": ["/images/review-grilled-salmon-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Tom Nguyen",
               "rating": 4,
               "comment": "Flavorful, though I'd like more sauce.",
               "date": "2024-04-10",
-              "images": ["/images/review-grilled-salmon-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -922,12 +922,12 @@
           "fullDescription": "Tender chicken breast breaded and fried, topped with house-made marinara sauce and melted mozzarella cheese. Served over al dente spaghetti with a side of garlic bread.",
           "price": 28,
           "category": "popular",
-          "image": "chicken_parmesan.jpg",
+          "image": "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png",
           "images": [
-            "/images/chicken_parmesan.jpg",
-            "/images/chicken_parmesan-2.jpg",
-            "/images/chicken_parmesan-3.jpg",
-            "/images/chicken_parmesan-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"
           ],
           "rating": 4.7,
           "benefits": [
@@ -954,28 +954,28 @@
               "rating": 5,
               "comment": "Classic dish done perfectly! Cheese was gooey.",
               "date": "2024-05-01",
-              "images": ["/images/review-chicken-parmesan-1.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Mark Thompson",
               "rating": 4,
               "comment": "Delicious, pasta was cooked just right.",
               "date": "2024-05-15",
-              "images": ["/images/review-chicken-parmesan-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Lisa Martinez",
               "rating": 5,
               "comment": "Loved the marinara sauce! Great portion.",
               "date": "2024-06-01",
-              "images": ["/images/review-chicken-parmesan-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Chris Evans",
               "rating": 4,
               "comment": "Tasty, but a bit heavy for dinner.",
               "date": "2024-06-10",
-              "images": ["/images/review-chicken-parmesan-4.jpg"]
+              "images": ["https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png"]
             }
           ]
         },
@@ -986,12 +986,12 @@
           "fullDescription": "Succulent lamb chops grilled with rosemary and garlic, served with a fresh mint sauce, roasted fingerling potatoes, and sautéed green beans.",
           "price": 40,
           "category": "featured",
-          "image": "lamb_chops.jpg",
+          "image": "https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png",
           "images": [
-            "/images/lamb_chops.jpg",
-            "/images/lamb_chops-2.jpg",
-            "/images/lamb_chops-3.jpg",
-            "/images/lamb_chops-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.9,
           "benefits": [
@@ -1018,28 +1018,28 @@
               "rating": 5,
               "comment": "Tender and flavorful chops! Mint sauce was perfect.",
               "date": "2024-07-01",
-              "images": ["/images/review-lamb-chops-1.jpg"]
+              "images": ["https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"]
             },
             {
               "customerName": "Liam Patel",
               "rating": 4,
               "comment": "Great dish, potatoes were crispy.",
               "date": "2024-07-15",
-              "images": ["/images/review-lamb-chops-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Emma Wilson",
               "rating": 5,
               "comment": "Best lamb I've had. Highly recommend!",
               "date": "2024-08-01",
-              "images": ["/images/review-lamb-chops-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "David Brown",
               "rating": 4,
               "comment": "Delicious, though pricey.",
               "date": "2024-08-10",
-              "images": ["/images/review-lamb-chops-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -1050,12 +1050,12 @@
           "fullDescription": "Arborio rice cooked slowly with vegetable broth, mixed with sautéed wild mushrooms, finished with parmesan cheese and a drizzle of truffle oil. Served with a side salad.",
           "price": 22,
           "category": "healthy",
-          "image": "mushroom_risotto.jpg",
+          "image": "https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png",
           "images": [
-            "/images/mushroom_risotto.jpg",
-            "/images/mushroom_risotto-2.jpg",
-            "/images/mushroom_risotto-3.jpg",
-            "/images/mushroom_risotto-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"
           ],
           "rating": 4.6,
           "benefits": [
@@ -1082,28 +1082,28 @@
               "rating": 5,
               "comment": "Creamy and earthy flavors! Truffle oil elevates it.",
               "date": "2024-09-01",
-              "images": ["/images/review-mushroom-risotto-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Michael Brown",
               "rating": 4,
               "comment": "Great vegetarian option. Risotto was perfect.",
               "date": "2024-09-10",
-              "images": ["/images/review-mushroom-risotto-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Olivia Chen",
               "rating": 5,
               "comment": "Loved the mushrooms! Very comforting.",
               "date": "2024-09-15",
-              "images": ["/images/review-mushroom-risotto-3.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Ethan Davis",
               "rating": 4,
               "comment": "Tasty, but could use more cheese.",
               "date": "2024-09-20",
-              "images": ["/images/review-mushroom-risotto-4.jpg"]
+              "images": ["https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png"]
             }
           ]
         },
@@ -1114,12 +1114,12 @@
           "fullDescription": "Fresh broccoli, bell peppers, carrots, and snap peas stir-fried with tofu in a ginger soy sauce. Served over jasmine rice with sesame seeds.",
           "price": 20,
           "category": "healthy",
-          "image": "vegetable_stir_fry.jpg",
+          "image": "https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png",
           "images": [
-            "/images/vegetable_stir_fry.jpg",
-            "/images/vegetable_stir_fry-2.jpg",
-            "/images/vegetable_stir_fry-3.jpg",
-            "/images/vegetable_stir_fry-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.5,
           "benefits": [
@@ -1146,28 +1146,28 @@
               "rating": 5,
               "comment": "Fresh and flavorful stir-fry! Love the ginger.",
               "date": "2024-10-01",
-              "images": ["/images/review-vegetable-stir-fry-1.jpg"]
+              "images": ["https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"]
             },
             {
               "customerName": "Megan White",
               "rating": 4,
               "comment": "Healthy and quick. Veggies were crisp.",
               "date": "2024-10-05",
-              "images": ["/images/review-vegetable-stir-fry-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Noah Patel",
               "rating": 5,
               "comment": "Great vegan option! Rice was fluffy.",
               "date": "2024-10-10",
-              "images": ["/images/review-vegetable-stir-fry-3.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Isabella Kim",
               "rating": 4,
               "comment": "Tasty, though I'd add more tofu.",
               "date": "2024-10-15",
-              "images": ["/images/review-vegetable-stir-fry-4.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             }
           ]
         }
@@ -1183,12 +1183,12 @@
           "fullDescription": "Our signature Margherita pizza features a hand-stretched dough made from imported Italian flour, topped with San Marzano tomato sauce, fresh mozzarella di bufala, and aromatic fresh basil leaves. Baked in our wood-fired oven at 900°F for that perfect crispy yet chewy crust with beautiful char spots.",
           "price": 18,
           "category": "popular",
-          "image": "margherita_pizza.jpg",
+          "image": "https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png",
           "images": [
-            "/images/margherita_pizza.jpg",
-            "/images/margherita_pizza-2.jpg",
-            "/images/margherita_pizza-3.jpg",
-            "/images/margherita_pizza-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"
           ],
           "rating": 4.6,
           "benefits": [
@@ -1215,28 +1215,28 @@
               "rating": 5,
               "comment": "Authentic Italian taste! The crust is perfect and the ingredients are top quality. Reminds me of pizza in Naples!",
               "date": "2024-01-23",
-              "images": ["/images/review-margherita-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Laura Kim",
               "rating": 4,
               "comment": "Great pizza, love the fresh basil!",
               "date": "2024-02-05",
-              "images": ["/images/review-margherita-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Michael Chen",
               "rating": 5,
               "comment": "Perfect crust and sauce. A must-try!",
               "date": "2024-02-20",
-              "images": ["/images/review-margherita-3.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Emma Patel",
               "rating": 4,
               "comment": "Really tasty, though I’d like more mozzarella.",
               "date": "2024-03-01",
-              "images": ["/images/review-margherita-4.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             }
           ]
         },
@@ -1247,12 +1247,12 @@
           "fullDescription": "Hand-stretched dough topped with San Marzano tomato sauce, fresh mozzarella, and spicy pepperoni slices. Baked in wood-fired oven for crispy crust and melted cheese.",
           "price": 20,
           "category": "popular",
-          "image": "pepperoni_pizza.jpg",
+          "image": "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
           "images": [
-            "/images/pepperoni_pizza.jpg",
-            "/images/pepperoni_pizza-2.jpg",
-            "/images/pepperoni_pizza-3.jpg",
-            "/images/pepperoni_pizza-4.jpg"
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.7,
           "benefits": [
@@ -1279,28 +1279,28 @@
               "rating": 5,
               "comment": "Classic pepperoni done right! Crispy and cheesy.",
               "date": "2024-03-05",
-              "images": ["/images/review-pepperoni-1.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Ava Kim",
               "rating": 4,
               "comment": "Great flavor, pepperoni was spicy.",
               "date": "2024-03-15",
-              "images": ["/images/review-pepperoni-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Lucas Patel",
               "rating": 5,
               "comment": "Best pepperoni pizza! Perfect crust.",
               "date": "2024-04-01",
-              "images": ["/images/review-pepperoni-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Sophia Chen",
               "rating": 4,
               "comment": "Tasty, but could use more toppings.",
               "date": "2024-04-10",
-              "images": ["/images/review-pepperoni-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -1311,12 +1311,12 @@
           "fullDescription": "Dough topped with tomato sauce, mozzarella, bell peppers, onions, mushrooms, and olives. Baked to perfection in wood-fired oven.",
           "price": 18,
           "category": "healthy",
-          "image": "veggie_pizza.jpg",
+          "image": "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
           "images": [
-            "/images/veggie_pizza.jpg",
-            "/images/veggie_pizza-2.jpg",
-            "/images/veggie_pizza-3.jpg",
-            "/images/veggie_pizza-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
+            "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"
           ],
           "rating": 4.5,
           "benefits": [
@@ -1343,28 +1343,28 @@
               "rating": 5,
               "comment": "Fresh veggies! Healthy and delicious.",
               "date": "2024-05-01",
-              "images": ["/images/review-veggie-pizza-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Ethan Kim",
               "rating": 4,
               "comment": "Great vegetarian pizza.",
               "date": "2024-05-15",
-              "images": ["/images/review-veggie-pizza-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Ava Patel",
               "rating": 5,
               "comment": "Love the assortment of veggies!",
               "date": "2024-06-01",
-              "images": ["/images/review-veggie-pizza-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Mason Lee",
               "rating": 4,
               "comment": "Tasty, but add more cheese.",
               "date": "2024-06-10",
-              "images": ["/images/review-veggie-pizza-4.jpg"]
+              "images": ["https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png"]
             }
           ]
         },
@@ -1375,12 +1375,12 @@
           "fullDescription": "Dough with tangy BBQ sauce, grilled chicken, red onions, mozzarella, and fresh cilantro. Baked for smoky flavor.",
           "price": 22,
           "category": "featured",
-          "image": "bbq_chicken_pizza.jpg",
+          "image": "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
           "images": [
-            "/images/bbq_chicken_pizza.jpg",
-            "/images/bbq_chicken_pizza-2.jpg",
-            "/images/bbq_chicken_pizza-3.jpg",
-            "/images/bbq_chicken_pizza-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png",
+            "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"
           ],
           "rating": 4.8,
           "benefits": [
@@ -1407,28 +1407,28 @@
               "rating": 5,
               "comment": "Smoky and delicious! Great twist.",
               "date": "2024-07-01",
-              "images": ["/images/review-bbq-chicken-1.jpg"]
+              "images": ["https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"]
             },
             {
               "customerName": "Lucas Brown",
               "rating": 4,
               "comment": "Love the BBQ sauce.",
               "date": "2024-07-15",
-              "images": ["/images/review-bbq-chicken-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Mia Davis",
               "rating": 5,
               "comment": "Perfect combination of flavors!",
               "date": "2024-08-01",
-              "images": ["/images/review-bbq-chicken-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Noah Chen",
               "rating": 4,
               "comment": "Tasty, but less onions next time.",
               "date": "2024-08-10",
-              "images": ["/images/review-bbq-chicken-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -1439,12 +1439,12 @@
           "fullDescription": "No-tomato sauce pizza with ricotta base, mozzarella, garlic, and fresh spinach. Baked for creamy texture.",
           "price": 19,
           "category": "regular",
-          "image": "white_pizza.jpg",
+          "image": "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
           "images": [
-            "/images/white_pizza.jpg",
-            "/images/white_pizza-2.jpg",
-            "/images/white_pizza-3.jpg",
-            "/images/white_pizza-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"
           ],
           "rating": 4.6,
           "benefits": [
@@ -1471,28 +1471,28 @@
               "rating": 5,
               "comment": "Creamy and garlicky! Love it.",
               "date": "2024-09-01",
-              "images": ["/images/review-white-pizza-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Ethan Patel",
               "rating": 4,
               "comment": "Great alternative to red sauce.",
               "date": "2024-09-10",
-              "images": ["/images/review-white-pizza-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Ava Kim",
               "rating": 5,
               "comment": "Spinach adds nice touch!",
               "date": "2024-09-15",
-              "images": ["/images/review-white-pizza-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Mason Chen",
               "rating": 4,
               "comment": "Delicious, more garlic please.",
               "date": "2024-09-20",
-              "images": ["/images/review-white-pizza-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -1503,12 +1503,12 @@
           "fullDescription": "Loaded with pepperoni, sausage, bacon, and ham on tomato sauce and mozzarella. Baked for hearty flavor.",
           "price": 24,
           "category": "popular",
-          "image": "meat_lovers_pizza.jpg",
+          "image": "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png",
           "images": [
-            "/images/meat_lovers_pizza.jpg",
-            "/images/meat_lovers_pizza-2.jpg",
-            "/images/meat_lovers_pizza-3.jpg",
-            "/images/meat_lovers_pizza-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.7,
           "benefits": [
@@ -1535,28 +1535,28 @@
               "rating": 5,
               "comment": "Loaded with meat! Perfect for carnivores.",
               "date": "2024-10-01",
-              "images": ["/images/review-meat-lovers-1.jpg"]
+              "images": ["https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"]
             },
             {
               "customerName": "Mia Patel",
               "rating": 4,
               "comment": "Great variety of meats.",
               "date": "2024-10-05",
-              "images": ["/images/review-meat-lovers-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Noah Lee",
               "rating": 5,
               "comment": "Best meat pizza ever!",
               "date": "2024-10-10",
-              "images": ["/images/review-meat-lovers-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Isabella Chen",
               "rating": 4,
               "comment": "Tasty, but quite heavy.",
               "date": "2024-10-15",
-              "images": ["/images/review-meat-lovers-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         }
@@ -1572,12 +1572,12 @@
           "fullDescription": "Our signature cheeseburger features a hand-formed 6oz patty made from freshly ground chuck beef, grilled to perfection and topped with aged cheddar cheese. Served on a brioche bun with crisp lettuce, ripe tomatoes, red onion, pickles, and our special burger sauce. Comes with hand-cut fries.",
           "price": 16,
           "category": "popular",
-          "image": "classic_cheeseburger.jpg",
+          "image": "https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png",
           "images": [
-            "/images/classic_cheeseburger.jpg",
-            "/images/classic_cheeseburger-2.jpg",
-            "/images/classic_cheeseburger-3.jpg",
-            "/images/classic_cheeseburger-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"
           ],
           "rating": 4.5,
           "benefits": [
@@ -1604,28 +1604,28 @@
               "rating": 4,
               "comment": "Great classic burger! Cooked perfectly and the fries are amazing. Good portion size.",
               "date": "2024-01-24",
-              "images": ["/images/review-classic-cheeseburger-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Ava Kim",
               "rating": 5,
               "comment": "Best burger ever! The sauce is fantastic.",
               "date": "2024-02-10",
-              "images": ["/images/review-classic-cheeseburger-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Lucas Patel",
               "rating": 4,
               "comment": "Really juicy burger. Fries are a great side!",
               "date": "2024-02-25",
-              "images": ["/images/review-classic-cheeseburger-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Sophia Chen",
               "rating": 5,
               "comment": "Perfect burger. Love the brioche bun!",
               "date": "2024-03-05",
-              "images": ["/images/review-classic-cheeseburger-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -1636,12 +1636,12 @@
           "fullDescription": "6oz beef patty topped with crispy bacon, cheddar cheese, lettuce, tomato, and mayo on a sesame bun. Served with fries.",
           "price": 18,
           "category": "popular",
-          "image": "bacon_burger.jpg",
+          "image": "https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png",
           "images": [
-            "/images/bacon_burger.jpg",
-            "/images/bacon_burger-2.jpg",
-            "/images/bacon_burger-3.jpg",
-            "/images/bacon_burger-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.7,
           "benefits": [
@@ -1668,28 +1668,28 @@
               "rating": 5,
               "comment": "Bacon makes it amazing!",
               "date": "2024-03-10",
-              "images": ["/images/review-bacon-burger-1.jpg"]
+              "images": ["https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"]
             },
             {
               "customerName": "David Brown",
               "rating": 4,
               "comment": "Crispy bacon, juicy patty.",
               "date": "2024-03-15",
-              "images": ["/images/review-bacon-burger-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Laura Adams",
               "rating": 5,
               "comment": "Best bacon burger!",
               "date": "2024-04-01",
-              "images": ["/images/review-bacon-burger-3.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Tom Nguyen",
               "rating": 4,
               "comment": "Great, more bacon please.",
               "date": "2024-04-10",
-              "images": ["/images/review-bacon-burger-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -1700,12 +1700,12 @@
           "fullDescription": "House-made veggie patty with black beans and quinoa, topped with lettuce, tomato, avocado, and vegan mayo on a whole wheat bun. Served with sweet potato fries.",
           "price": 16,
           "category": "healthy",
-          "image": "veggie_burger.jpg",
+          "image": "https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png",
           "images": [
-            "/images/veggie_burger.jpg",
-            "/images/veggie_burger-2.jpg",
-            "/images/veggie_burger-3.jpg",
-            "/images/veggie_burger-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"
           ],
           "rating": 4.5,
           "benefits": [
@@ -1732,28 +1732,28 @@
               "rating": 5,
               "comment": "Best veggie burger! So flavorful.",
               "date": "2024-05-01",
-              "images": ["/images/review-veggie-burger-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Mark Thompson",
               "rating": 4,
               "comment": "Healthy and tasty.",
               "date": "2024-05-15",
-              "images": ["/images/review-veggie-burger-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Lisa Martinez",
               "rating": 5,
               "comment": "Love the avocado!",
               "date": "2024-06-01",
-              "images": ["/images/review-veggie-burger-3.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Chris Evans",
               "rating": 4,
               "comment": "Good alternative to beef.",
               "date": "2024-06-10",
-              "images": ["/images/review-veggie-burger-4.jpg"]
+              "images": ["https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png"]
             }
           ]
         },
@@ -1764,12 +1764,12 @@
           "fullDescription": "6oz beef patty topped with sautéed mushrooms, swiss cheese, caramelized onions, and garlic aioli on a brioche bun. Served with fries.",
           "price": 17,
           "category": "featured",
-          "image": "mushroom_swiss_burger.jpg",
+          "image": "https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png",
           "images": [
-            "/images/mushroom_swiss_burger.jpg",
-            "/images/mushroom_swiss_burger-2.jpg",
-            "/images/mushroom_swiss_burger-3.jpg",
-            "/images/mushroom_swiss_burger-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.6,
           "benefits": [
@@ -1796,28 +1796,28 @@
               "rating": 5,
               "comment": "Mushrooms are perfect!",
               "date": "2024-07-01",
-              "images": ["/images/review-mushroom-swiss-1.jpg"]
+              "images": ["https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"]
             },
             {
               "customerName": "Liam Patel",
               "rating": 4,
               "comment": "Great combo of flavors.",
               "date": "2024-07-15",
-              "images": ["/images/review-mushroom-swiss-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Emma Wilson",
               "rating": 5,
               "comment": "Love the swiss cheese melt.",
               "date": "2024-08-01",
-              "images": ["/images/review-mushroom-swiss-3.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "David Brown",
               "rating": 4,
               "comment": "Tasty burger.",
               "date": "2024-08-10",
-              "images": ["/images/review-mushroom-swiss-4.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             }
           ]
         },
@@ -1828,12 +1828,12 @@
           "fullDescription": "6oz beef patty with sliced jalapeños, pepper jack cheese, lettuce, and chipotle mayo on a bun. Served with fries.",
           "price": 18,
           "category": "regular",
-          "image": "spicy_jalapeno_burger.jpg",
+          "image": "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
           "images": [
-            "/images/spicy_jalapeno_burger.jpg",
-            "/images/spicy_jalapeno_burger-2.jpg",
-            "/images/spicy_jalapeno_burger-3.jpg",
-            "/images/spicy_jalapeno_burger-4.jpg"
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
+            "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"
           ],
           "rating": 4.5,
           "benefits": [
@@ -1860,28 +1860,28 @@
               "rating": 5,
               "comment": "Perfect spice level!",
               "date": "2024-09-01",
-              "images": ["/images/review-spicy-jalapeno-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Michael Brown",
               "rating": 4,
               "comment": "Good kick of heat.",
               "date": "2024-09-10",
-              "images": ["/images/review-spicy-jalapeno-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Olivia Chen",
               "rating": 5,
               "comment": "Love the chipotle mayo.",
               "date": "2024-09-15",
-              "images": ["/images/review-spicy-jalapeno-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Ethan Davis",
               "rating": 4,
               "comment": "Spicy but enjoyable.",
               "date": "2024-09-20",
-              "images": ["/images/review-spicy-jalapeno-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -1892,12 +1892,12 @@
           "fullDescription": "Lean turkey patty grilled, topped with lettuce, tomato, and cranberry sauce on a whole wheat bun. Served with side salad.",
           "price": 16,
           "category": "healthy",
-          "image": "turkey_burger.jpg",
+          "image": "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
           "images": [
-            "/images/turkey_burger.jpg",
-            "/images/turkey_burger-2.jpg",
-            "/images/turkey_burger-3.jpg",
-            "/images/turkey_burger-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.4,
           "benefits": [
@@ -1924,28 +1924,28 @@
               "rating": 5,
               "comment": "Great twist with cranberry!",
               "date": "2024-10-01",
-              "images": ["/images/review-turkey-burger-1.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Megan White",
               "rating": 4,
               "comment": "Healthy and flavorful.",
               "date": "2024-10-05",
-              "images": ["/images/review-turkey-burger-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Noah Patel",
               "rating": 5,
               "comment": "Love this turkey burger.",
               "date": "2024-10-10",
-              "images": ["/images/review-turkey-burger-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Isabella Kim",
               "rating": 4,
               "comment": "Good, more sauce next time.",
               "date": "2024-10-15",
-              "images": ["/images/review-turkey-burger-4.jpg"]
+              "images": ["https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png"]
             }
           ]
         }
@@ -1961,12 +1961,12 @@
           "fullDescription": "Pure, freshly squeezed orange juice made from premium Valencia oranges. No added sugars, preservatives, or artificial flavors. Each glass contains the juice of approximately 4-5 fresh oranges, providing natural sweetness and vibrant citrus flavor. Served chilled over ice.",
           "price": 6,
           "category": "popular",
-          "image": "orange_juice.jpg",
+          "image": "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
           "images": [
-            "/images/orange_juice.jpg",
-            "/images/orange_juice-2.jpg",
-            "/images/orange_juice-3.jpg",
-            "/images/orange_juice-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.5,
           "benefits": [
@@ -1993,28 +1993,28 @@
               "rating": 5,
               "comment": "The freshest orange juice I've ever tasted! You can really taste the difference from store-bought.",
               "date": "2024-01-25",
-              "images": ["/images/review-orange-juice-1.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Ethan Chen",
               "rating": 4,
               "comment": "Really refreshing. Perfect for breakfast!",
               "date": "2024-02-05",
-              "images": ["/images/review-orange-juice-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Olivia Patel",
               "rating": 5,
               "comment": "So fresh and tangy! My go-to drink.",
               "date": "2024-02-20",
-              "images": ["/images/review-orange-juice-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Mason Kim",
               "rating": 4,
               "comment": "Great juice, though I’d prefer it less icy.",
               "date": "2024-03-01",
-              "images": ["/images/review-orange-juice-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -2025,12 +2025,12 @@
           "fullDescription": "Freshly brewed coffee chilled and served over ice, with option for milk and sugar. Made from premium arabica beans.",
           "price": 5,
           "category": "regular",
-          "image": "iced_coffee.jpg",
+          "image": "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
           "images": [
-            "/images/iced_coffee.jpg",
-            "/images/iced_coffee-2.jpg",
-            "/images/iced_coffee-3.jpg",
-            "/images/iced_coffee-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"
           ],
           "rating": 4.6,
           "benefits": [
@@ -2057,28 +2057,28 @@
               "rating": 5,
               "comment": "Best iced coffee! Strong and smooth.",
               "date": "2024-03-05",
-              "images": ["/images/review-iced-coffee-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Ava Kim",
               "rating": 4,
               "comment": "Refreshing, good with milk.",
               "date": "2024-03-15",
-              "images": ["/images/review-iced-coffee-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Lucas Patel",
               "rating": 5,
               "comment": "Perfect pick-me-up!",
               "date": "2024-04-01",
-              "images": ["/images/review-iced-coffee-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Sophia Chen",
               "rating": 4,
               "comment": "Good, less ice next time.",
               "date": "2024-04-10",
-              "images": ["/images/review-iced-coffee-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -2089,12 +2089,12 @@
           "fullDescription": "Fresh strawberries blended with yogurt and honey for a creamy, sweet smoothie. Served chilled.",
           "price": 7,
           "category": "healthy",
-          "image": "strawberry_smoothie.jpg",
+          "image": "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png",
           "images": [
-            "/images/strawberry_smoothie.jpg",
-            "/images/strawberry_smoothie-2.jpg",
-            "/images/strawberry_smoothie-3.jpg",
-            "/images/strawberry_smoothie-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"
           ],
           "rating": 4.7,
           "benefits": [
@@ -2121,28 +2121,28 @@
               "rating": 5,
               "comment": "Sweet and creamy! Love it.",
               "date": "2024-05-01",
-              "images": ["/images/review-strawberry-smoothie-1.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Ethan Kim",
               "rating": 4,
               "comment": "Healthy and tasty.",
               "date": "2024-05-15",
-              "images": ["/images/review-strawberry-smoothie-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Ava Patel",
               "rating": 5,
               "comment": "Perfect smoothie!",
               "date": "2024-06-01",
-              "images": ["/images/review-strawberry-smoothie-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Mason Lee",
               "rating": 4,
               "comment": "Good, more strawberries.",
               "date": "2024-06-10",
-              "images": ["/images/review-strawberry-smoothie-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -2153,12 +2153,12 @@
           "fullDescription": "House-made lemonade with fresh lemons, sugar, and sparkling water option. Served over ice.",
           "price": 5,
           "category": "popular",
-          "image": "lemonade.jpg",
+          "image": "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png",
           "images": [
-            "/images/lemonade.jpg",
-            "/images/lemonade-2.jpg",
-            "/images/lemonade-3.jpg",
-            "/images/lemonade-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.5,
           "benefits": [
@@ -2185,28 +2185,28 @@
               "rating": 5,
               "comment": "Tangy and sweet! Perfect.",
               "date": "2024-07-01",
-              "images": ["/images/review-lemonade-1.jpg"]
+              "images": ["https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"]
             },
             {
               "customerName": "Lucas Brown",
               "rating": 4,
               "comment": "Refreshing lemonade.",
               "date": "2024-07-15",
-              "images": ["/images/review-lemonade-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Mia Davis",
               "rating": 5,
               "comment": "Best homemade lemonade!",
               "date": "2024-08-01",
-              "images": ["/images/review-lemonade-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Noah Chen",
               "rating": 4,
               "comment": "Good, less sugar.",
               "date": "2024-08-10",
-              "images": ["/images/review-lemonade-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -2217,12 +2217,12 @@
           "fullDescription": "Premium green tea leaves brewed fresh, served hot or iced. Rich in antioxidants.",
           "price": 4,
           "category": "healthy",
-          "image": "green_tea.jpg",
+          "image": "https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png",
           "images": [
-            "/images/green_tea.jpg",
-            "/images/green_tea-2.jpg",
-            "/images/green_tea-3.jpg",
-            "/images/green_tea-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"
           ],
           "rating": 4.4,
           "benefits": [
@@ -2249,28 +2249,28 @@
               "rating": 5,
               "comment": "Soothing and fresh!",
               "date": "2024-09-01",
-              "images": ["/images/review-green-tea-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Ethan Patel",
               "rating": 4,
               "comment": "Healthy choice.",
               "date": "2024-09-10",
-              "images": ["/images/review-green-tea-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Ava Kim",
               "rating": 5,
               "comment": "Love iced version.",
               "date": "2024-09-15",
-              "images": ["/images/review-green-tea-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Mason Chen",
               "rating": 4,
               "comment": "Good tea.",
               "date": "2024-09-20",
-              "images": ["/images/review-green-tea-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -2281,12 +2281,12 @@
           "fullDescription": "Classic mojito with fresh mint, lime, white rum, sugar, and soda water. Served over ice with lime garnish.",
           "price": 8,
           "category": "featured",
-          "image": "mojito.jpg",
+          "image": "https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png",
           "images": [
-            "/images/mojito.jpg",
-            "/images/mojito-2.jpg",
-            "/images/mojito-3.jpg",
-            "/images/mojito-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.8,
           "benefits": [
@@ -2313,28 +2313,28 @@
               "rating": 5,
               "comment": "Perfect summer drink!",
               "date": "2024-10-01",
-              "images": ["/images/review-mojito-1.jpg"]
+              "images": ["https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"]
             },
             {
               "customerName": "Mia Patel",
               "rating": 4,
               "comment": "Fresh and minty.",
               "date": "2024-10-05",
-              "images": ["/images/review-mojito-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Noah Lee",
               "rating": 5,
               "comment": "Best mojito ever.",
               "date": "2024-10-10",
-              "images": ["/images/review-mojito-3.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Isabella Chen",
               "rating": 4,
               "comment": "Good balance.",
               "date": "2024-10-15",
-              "images": ["/images/review-mojito-4.jpg"]
+              "images": ["https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png"]
             }
           ]
         }
@@ -2350,12 +2350,12 @@
           "fullDescription": "Decadent three-layer chocolate cake made with premium Belgian cocoa and dark chocolate. Each layer is moist and rich, filled with silky chocolate ganache and covered in our signature chocolate buttercream frosting. Garnished with chocolate shavings and served with a scoop of vanilla ice cream.",
           "price": 9,
           "category": "popular",
-          "image": "chocolate_cake.jpg",
+          "image": "https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png",
           "images": [
-            "/images/chocolate_cake.jpg",
-            "/images/chocolate_cake-2.jpg",
-            "/images/chocolate_cake-3.jpg",
-            "/images/chocolate_cake-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"
           ],
           "rating": 4.8,
           "benefits": [
@@ -2382,28 +2382,28 @@
               "rating": 5,
               "comment": "Absolutely divine! Rich, moist, and not too sweet. Perfect way to end a meal.",
               "date": "2024-01-26",
-              "images": ["/images/review-chocolate-cake-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Lucas Patel",
               "rating": 4,
               "comment": "Great cake, love the ganache filling!",
               "date": "2024-02-10",
-              "images": ["/images/review-chocolate-cake-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Ava Chen",
               "rating": 5,
               "comment": "Perfect dessert. The ice cream pairs so well!",
               "date": "2024-02-25",
-              "images": ["/images/review-chocolate-cake-3.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Noah Lee",
               "rating": 4,
               "comment": "Really rich and tasty. A bit heavy for me.",
               "date": "2024-03-05",
-              "images": ["/images/review-chocolate-cake-4.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             }
           ]
         },
@@ -2414,12 +2414,12 @@
           "fullDescription": "Smooth and creamy New York-style cheesecake on a graham cracker crust, topped with fresh berry sauce.",
           "price": 10,
           "category": "popular",
-          "image": "cheesecake.jpg",
+          "image": "https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png",
           "images": [
-            "/images/cheesecake.jpg",
-            "/images/cheesecake-2.jpg",
-            "/images/cheesecake-3.jpg",
-            "/images/cheesecake-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.7,
           "benefits": [
@@ -2446,28 +2446,28 @@
               "rating": 5,
               "comment": "Creamy perfection!",
               "date": "2024-03-10",
-              "images": ["/images/review-cheesecake-1.jpg"]
+              "images": ["https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png"]
             },
             {
               "customerName": "David Brown",
               "rating": 4,
               "comment": "Great berry topping.",
               "date": "2024-03-15",
-              "images": ["/images/review-cheesecake-2.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Laura Adams",
               "rating": 5,
               "comment": "Best cheesecake ever.",
               "date": "2024-04-01",
-              "images": ["/images/review-cheesecake-3.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Tom Nguyen",
               "rating": 4,
               "comment": "Delicious, rich flavor.",
               "date": "2024-04-10",
-              "images": ["/images/review-cheesecake-4.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             }
           ]
         },
@@ -2478,12 +2478,12 @@
           "fullDescription": "Fresh apples baked with cinnamon in a flaky pastry crust, served warm with vanilla ice cream.",
           "price": 8,
           "category": "regular",
-          "image": "apple_pie.jpg",
+          "image": "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
           "images": [
-            "/images/apple_pie.jpg",
-            "/images/apple_pie-2.jpg",
-            "/images/apple_pie-3.jpg",
-            "/images/apple_pie-4.jpg"
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
+            "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"
           ],
           "rating": 4.6,
           "benefits": [
@@ -2510,28 +2510,28 @@
               "rating": 5,
               "comment": "Classic and delicious!",
               "date": "2024-05-01",
-              "images": ["/images/review-apple-pie-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Mark Thompson",
               "rating": 4,
               "comment": "Flaky crust, good apples.",
               "date": "2024-05-15",
-              "images": ["/images/review-apple-pie-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Lisa Martinez",
               "rating": 5,
               "comment": "Perfect with ice cream.",
               "date": "2024-06-01",
-              "images": ["/images/review-apple-pie-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Chris Evans",
               "rating": 4,
               "comment": "Tasty pie.",
               "date": "2024-06-10",
-              "images": ["/images/review-apple-pie-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         },
@@ -2542,12 +2542,12 @@
           "fullDescription": "Italian classic with espresso-soaked ladyfingers, mascarpone cream, and cocoa dusting.",
           "price": 11,
           "category": "featured",
-          "image": "tiramisu.jpg",
+          "image": "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
           "images": [
-            "/images/tiramisu.jpg",
-            "/images/tiramisu-2.jpg",
-            "/images/tiramisu-3.jpg",
-            "/images/tiramisu-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.8,
           "benefits": [
@@ -2574,28 +2574,28 @@
               "rating": 5,
               "comment": "Authentic and creamy!",
               "date": "2024-07-01",
-              "images": ["/images/review-tiramisu-1.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Liam Patel",
               "rating": 4,
               "comment": "Great coffee flavor.",
               "date": "2024-07-15",
-              "images": ["/images/review-tiramisu-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Emma Wilson",
               "rating": 5,
               "comment": "Best tiramisu.",
               "date": "2024-08-01",
-              "images": ["/images/review-tiramisu-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "David Brown",
               "rating": 4,
               "comment": "Delicious dessert.",
               "date": "2024-08-10",
-              "images": ["/images/review-tiramisu-4.jpg"]
+              "images": ["https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png"]
             }
           ]
         },
@@ -2606,12 +2606,12 @@
           "fullDescription": "Zesty lemon curd in a buttery pastry shell, topped with meringue or powdered sugar.",
           "price": 9,
           "category": "healthy",
-          "image": "lemon_tart.jpg",
+          "image": "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
           "images": [
-            "/images/lemon_tart.jpg",
-            "/images/lemon_tart-2.jpg",
-            "/images/lemon_tart-3.jpg",
-            "/images/lemon_tart-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
+            "https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"
           ],
           "rating": 4.5,
           "benefits": [
@@ -2638,28 +2638,28 @@
               "rating": 5,
               "comment": "Zesty and perfect!",
               "date": "2024-09-01",
-              "images": ["/images/review-lemon-tart-1.jpg"]
+              "images": ["https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"]
             },
             {
               "customerName": "Michael Brown",
               "rating": 4,
               "comment": "Nice tartness.",
               "date": "2024-09-10",
-              "images": ["/images/review-lemon-tart-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Olivia Chen",
               "rating": 5,
               "comment": "Love the curd.",
               "date": "2024-09-15",
-              "images": ["/images/review-lemon-tart-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Ethan Davis",
               "rating": 4,
               "comment": "Good light dessert.",
               "date": "2024-09-20",
-              "images": ["/images/review-lemon-tart-4.jpg"]
+              "images": ["https://i.ibb.co.com/cKwnzyNF/f4e0d9db8c8ef0e91e4adc3f7f54f96af4c3ee9e-1.png"]
             }
           ]
         },
@@ -2670,12 +2670,12 @@
           "fullDescription": "Rich vanilla custard with a caramelized sugar crust, served chilled.",
           "price": 10,
           "category": "popular",
-          "image": "creme_brulee.jpg",
+          "image": "https://i.ibb.co.com/pvzb9nhw/b48d64b284d1c7b12788820ad45a1bc183abe878.png",
           "images": [
-            "/images/creme_brulee.jpg",
-            "/images/creme_brulee-2.jpg",
-            "/images/creme_brulee-3.jpg",
-            "/images/creme_brulee-4.jpg"
+            "https://i.ibb.co.com/HDYvf8WS/1bdb550588131e6bb693361765fe96b1b8d47016.png",
+            "https://i.ibb.co.com/LXQk32xv/5bc14cb27a6d8b1525cb040838f64f49d64c6606.png",
+            "https://i.ibb.co.com/S7r1jTWK/031e2b0d70d9f1eadcc16e31c05335424b00cc48.png",
+            "https://i.ibb.co.com/JWsKJwvv/c2c128e5261924d7cacdefe97193712c30204a03.png"
           ],
           "rating": 4.9,
           "benefits": [
@@ -2702,28 +2702,28 @@
               "rating": 5,
               "comment": "Perfect caramel crust!",
               "date": "2024-10-01",
-              "images": ["/images/review-creme-brulee-1.jpg"]
+              "images": ["https://i.ibb.co.com/G4C4BRPF/c15067f2bddf1dda8f21c53e680c8083969715c0.png"]
             },
             {
               "customerName": "Megan White",
               "rating": 4,
               "comment": "Rich and creamy.",
               "date": "2024-10-05",
-              "images": ["/images/review-creme-brulee-2.jpg"]
+              "images": ["https://i.ibb.co.com/Kttr6gP/d0c86750b7a3a9cff22d03c0a6e64dac80ec15e7.png"]
             },
             {
               "customerName": "Noah Patel",
               "rating": 5,
               "comment": "Best crème brûlée.",
               "date": "2024-10-10",
-              "images": ["/images/review-creme-brulee-3.jpg"]
+              "images": ["https://i.ibb.co.com/5Xv90Kgh/d6561d5b68c90ae8daf9bd212cde46ed03a0293c.png"]
             },
             {
               "customerName": "Isabella Kim",
               "rating": 4,
               "comment": "Delicious dessert.",
               "date": "2024-10-15",
-              "images": ["/images/review-creme-brulee-4.jpg"]
+              "images": ["https://i.ibb.co.com/LDqYLMpx/e363821504503796f4a4809f2bfba0bd392944fc.png"]
             }
           ]
         }
@@ -2751,33 +2751,41 @@
           "menu": "dinner"
         },
         {
-          "id": 38,
-          "name": "Pepperoni Pizza",
+          "id": 37,
+          "name": "Margherita Pizza",
           "menu": "pizza"
         },
         {
-          "id": 50,
-          "name": "Bacon Burger",
+          "id": 49,
+          "name": "Classic Cheeseburger",
           "menu": "burger"
         },
         {
-          "id": 64,
-          "name": "Lemonade",
+          "id": 61,
+          "name": "Fresh Orange Juice",
           "menu": "drinks"
+        },
+        {
+          "id": 73,
+          "name": "Chocolate Cake",
+          "menu": "dessert"
         }
       ]
     },
     "featured": {
       "name": "Featured Items",
-      "description": "Chef's special recommendations"
+      "description": "Chef's special recommendations",
+      "items": []
     },
     "regular": {
       "name": "Regular Items",
-      "description": "Standard menu offerings"
+      "description": "Standard menu offerings",
+      "items": []
     },
     "healthy": {
       "name": "Healthy Options",
-      "description": "Nutritious and lighter choices"
+      "description": "Nutritious and lighter choices",
+      "items": []
     }
   },
   "menu_types": [
